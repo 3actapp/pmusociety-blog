@@ -1,339 +1,198 @@
-/* ============================================================
-   PMU Society Blog — Premium Custom Theme
-   Brand: Black (#000) + Green (#14d171) + White (#fff)
-   ============================================================ */
 
-/* === DARK THEME OVERRIDES === */
+/* PMU Society Blog - Premium Redesign CSS */
+
+/* 1. Core Variables & Body
+-------------------------------------------------- */
 :root {
-    --theme: #000000;
-    --entry: #111111;
-    --primary: #e0e0e0;
-    --secondary: #bbbbbb;
-    --tertiary: #1a1a1a;
-    --content: #e0e0e0;
-    --code-bg: #1a1a1a;
-    --border: #222222;
-    --gap: 24px;
-    --radius: 8px;
+    --primary: #14d171; /* PMU Society Green */
+    --primary-light: #2fd171; /* Lighter green for text accents */
+    --secondary: #e0e0e0; /* Main text color */
+    --bg: #000000; /* Pure black background */
+    --bg-alt: #0a0a0a; /* Slightly lighter black for cards/modules */
+    --border-color: #1a1a1a; /* Subtle border color */
+    --code-bg: #111;
+    --card-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    --card-hover-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
 }
 
-.dark {
-    --theme: #000000;
-    --entry: #111111;
-    --primary: #e0e0e0;
-    --secondary: #bbbbbb;
-    --tertiary: #1a1a1a;
-    --content: #e0e0e0;
-    --code-bg: #1a1a1a;
-    --border: #222222;
-}
-
-/* === GLOBAL TYPOGRAPHY === */
 body {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    background: #000000;
-    color: #e0e0e0;
-    line-height: 1.85;
+    background-color: var(--bg);
+    color: var(--secondary);
+    font-family: "Inter", sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 
-/* === HEADER / NAV === */
-.nav {
-    background: rgba(0, 0, 0, 0.95);
-    backdrop-filter: blur(10px);
-    border-bottom: 1px solid #14d171;
-    max-width: 100%;
-}
-
-.logo a {
-    color: #14d171 !important;
-    font-weight: 800;
-    font-size: 1.3rem;
-    letter-spacing: -0.02em;
-}
-
-#menu a {
-    color: #e0e0e0 !important;
-    font-weight: 500;
-    transition: color 0.2s ease;
-}
-
-#menu a:hover {
-    color: #14d171 !important;
-}
-
-/* CTA button in nav */
-#menu .cta-button a,
-#menu li:last-child a {
-    background: #14d171 !important;
-    color: #000000 !important;
-    padding: 8px 20px !important;
-    border-radius: 6px;
+/* 2. Typography
+-------------------------------------------------- */
+h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
-    transition: all 0.3s ease;
-}
-
-#menu .cta-button a:hover,
-#menu li:last-child a:hover {
-    background: #2fd171 !important;
-    transform: translateY(-1px);
-    box-shadow: 0 4px 15px rgba(20, 209, 113, 0.3);
-}
-
-/* === HEADINGS === */
-h1 {
     color: #ffffff;
+}
+
+.post-title {
+    font-size: 2.5rem; /* Larger for single post view */
     font-weight: 800;
-    letter-spacing: -0.03em;
-    line-height: 1.2;
 }
 
-h2 {
-    color: #14d171;
-    font-weight: 700;
-    letter-spacing: -0.02em;
-    margin-top: 2.5rem;
-    padding-bottom: 0.5rem;
-    border-bottom: 2px solid rgba(20, 209, 113, 0.2);
+.post-content h2 {
+    font-size: 1.8rem;
+    margin-top: 2.5em;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5em;
 }
 
-h3 {
-    color: #ffffff;
-    font-weight: 600;
+.post-content h3 {
+    font-size: 1.4rem;
+    margin-top: 2em;
 }
 
-h4, h5, h6 {
-    color: #e0e0e0;
-}
-
-/* === LINKS === */
 a {
-    color: #14d171;
+    color: var(--secondary);
     text-decoration: none;
-    transition: color 0.2s ease;
+    transition: color 0.2s ease-in-out;
 }
 
 a:hover {
-    color: #2fd171;
+    color: var(--primary);
 }
 
-/* === HOME PAGE === */
-.first-entry {
-    border: 1px solid #14d171;
-    background: linear-gradient(135deg, #0a0a0a 0%, #111111 100%);
-    border-radius: 12px;
-    overflow: hidden;
+/* 3. Header & Navigation
+-------------------------------------------------- */
+.header {
+    background: rgba(0,0,0,0.8);
+    backdrop-filter: blur(10px);
+    box-shadow: none;
+    border-bottom: 1px solid var(--border-color);
 }
 
-.first-entry .entry-header h2 {
+.logo-switches .logo a {
     color: #ffffff;
-    font-size: 1.6rem;
+    font-weight: 700;
 }
 
-.home-info .entry-content {
-    color: #bbbbbb;
-    font-size: 1.15rem;
-    max-width: 650px;
+.menu a {
+    font-weight: 500;
 }
 
-.home-info h1 {
-    color: #14d171;
-    font-size: 2.5rem;
-    font-weight: 800;
+.menu .active {
+    font-weight: 700;
+    color: var(--primary);
 }
 
-/* === POST LIST / CARDS === */
+/* CTA Button in Nav */
+.menu a.button,
+#menu li:last-child a {
+    background-color: var(--primary);
+    color: var(--bg) !important; /* Black text on green button */
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+
+.menu a.button:hover,
+#menu li:last-child a:hover {
+    background-color: #fff;
+    color: var(--bg) !important;
+    transform: translateY(-1px);
+}
+
+/* 4. Post Cards (List View)
+-------------------------------------------------- */
+.first-entry {
+    border-radius: 8px;
+    background: var(--bg-alt);
+    border: 1px solid var(--border-color);
+}
+
 .post-entry {
-    background: #111111;
-    border: 1px solid #1a1a1a;
-    border-radius: 10px;
-    margin-bottom: 1.5rem;
-    transition: all 0.3s ease;
-    overflow: hidden;
+    background: var(--bg-alt);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    margin-bottom: 20px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 }
 
 .post-entry:hover {
-    border-color: #14d171;
-    transform: translateY(-3px);
-    box-shadow: 0 8px 30px rgba(20, 209, 113, 0.1);
+    transform: translateY(-5px);
+    box-shadow: var(--card-hover-shadow);
+    border-color: #222;
 }
 
-.post-entry .entry-cover {
-    border-radius: 10px 10px 0 0;
-}
-
-.post-entry .entry-header h2 {
-    color: #ffffff;
-    font-weight: 700;
-    border: none;
-    padding-bottom: 0;
-}
-
-.post-entry .entry-content {
-    color: #bbbbbb;
-}
-
-/* === SINGLE POST === */
-.post-title {
-    font-size: 2.4rem;
-    font-weight: 800;
-    color: #ffffff;
-    line-height: 1.15;
-    letter-spacing: -0.03em;
-}
-
-.post-meta {
-    color: #888888;
-    font-size: 0.9rem;
-}
-
-.post-content {
-    font-size: 1.1rem;
-    line-height: 1.9;
-    color: #d0d0d0;
-}
-
-.post-content p {
-    margin-bottom: 1.5rem;
-}
-
-.post-content strong {
-    color: #ffffff;
+.post-entry .post-title {
+    font-size: 1.25rem;
     font-weight: 600;
 }
 
-.post-content em {
-    color: #14d171;
-    font-style: normal;
-    font-weight: 500;
+.post-entry .entry-content {
+    font-size: 0.95rem;
+    color: #a0a0a0;
 }
 
-.post-content blockquote {
-    border-left: 4px solid #14d171;
-    background: rgba(20, 209, 113, 0.05);
-    padding: 1.2rem 1.5rem;
-    margin: 2rem 0;
-    border-radius: 0 8px 8px 0;
-    font-size: 1.15rem;
-    color: #e0e0e0;
+.post-header {
+    padding: 25px;
 }
 
-.post-content ul, .post-content ol {
-    margin-bottom: 1.5rem;
+.post-footer {
+    padding: 0 25px 25px;
 }
 
-.post-content li {
-    margin-bottom: 0.5rem;
-}
-
-/* === FEATURED IMAGE === */
-.post-content img,
 .entry-cover img {
-    border-radius: 10px;
-    border: 1px solid #1a1a1a;
+    border-radius: 8px 8px 0 0;
 }
 
-/* === TAGS === */
+/* 5. Single Post View
+-------------------------------------------------- */
+.post-content blockquote {
+    border-left: 3px solid var(--primary);
+    background-color: var(--bg-alt);
+    padding: 15px 20px;
+    font-style: italic;
+}
+
+.toc {
+    background: var(--bg-alt);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+}
+
 .post-tags a {
-    background: rgba(20, 209, 113, 0.1);
-    color: #14d171;
-    border: 1px solid rgba(20, 209, 113, 0.3);
-    border-radius: 20px;
-    padding: 4px 14px;
-    font-size: 0.85rem;
-    font-weight: 500;
-    transition: all 0.2s ease;
+    background-color: var(--bg-alt);
+    border: 1px solid var(--border-color);
+    color: var(--secondary);
+    font-size: 0.8rem;
+    padding: 5px 10px;
+    border-radius: 5px;
 }
 
 .post-tags a:hover {
-    background: #14d171;
-    color: #000000;
+    background-color: var(--primary);
+    color: var(--bg);
+    border-color: var(--primary);
 }
 
-/* === BREADCRUMBS === */
-.breadcrumbs a {
-    color: #14d171;
-}
-
-.breadcrumbs span {
-    color: #666666;
-}
-
-/* === SHARE BUTTONS === */
-.share-buttons a {
-    background: #1a1a1a;
-    border: 1px solid #333333;
-    border-radius: 8px;
-    transition: all 0.2s ease;
-}
-
-.share-buttons a:hover {
-    background: #14d171;
-    border-color: #14d171;
-}
-
-/* === FOOTER === */
+/* 6. Footer
+-------------------------------------------------- */
 .footer {
-    border-top: 1px solid #14d171;
-    background: #000000;
-    color: #888888;
+    border-top: 1px solid var(--border-color);
 }
 
-.footer a {
-    color: #14d171;
+/* 7. Misc & Overrides
+-------------------------------------------------- */
+.archive-title {
+    color: #fff;
 }
 
-/* === PAGINATION === */
-.pagination a {
-    background: #111111;
-    border: 1px solid #333333;
-    color: #e0e0e0;
-    border-radius: 8px;
-    transition: all 0.2s ease;
+.page-header h1 {
+    font-size: 2rem;
 }
 
-.pagination a:hover {
-    background: #14d171;
-    color: #000000;
-    border-color: #14d171;
+.main {
+    padding-top: 40px;
 }
 
-/* === SCROLLBAR === */
-::-webkit-scrollbar {
-    width: 8px;
-}
-
-::-webkit-scrollbar-track {
-    background: #000000;
-}
-
-::-webkit-scrollbar-thumb {
-    background: #333333;
-    border-radius: 4px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-    background: #14d171;
-}
-
-/* === SELECTION === */
-::selection {
-    background: rgba(20, 209, 113, 0.3);
-    color: #ffffff;
-}
-
-/* === RESPONSIVE === */
-@media (max-width: 768px) {
-    .post-title {
-        font-size: 1.8rem;
-    }
-
-    .home-info h1 {
-        font-size: 1.8rem;
-    }
-
-    .post-content {
-        font-size: 1rem;
-    }
+/* Disable theme-switch button */
+.logo-switches .theme-switch {
+    display: none;
 }
