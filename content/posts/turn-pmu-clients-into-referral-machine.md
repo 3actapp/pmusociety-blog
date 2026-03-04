@@ -13,7 +13,7 @@ TocOpen: true
 
 Is your appointment book not overflowing with referrals? You deliver stunning results and clients leave happy, but the new business you expected isn’t materialising. This is a common frustration in the permanent makeup industry. Many talented artists believe excellent work speaks for itself. While quality is paramount, it is not a passive marketing strategy. To scale your PMU business, you must actively transform each satisfied client into a powerful advocate, a referral machine bringing new faces to your studio.
 
-At PMU Society, we do not guess what works. Our numbers prove our methods. We generate over two thousand bookings for our members monthly. This results from proven, driven by data strategies refined over years working with hundreds of PMU professionals. We have helped them generate millions in bookings, and a huge part of that success comes from mastering referrals. Forget fluffy advice. We are here to give you the no nonsense, actionable steps to build a self sustaining referral engine.
+At [PMU Society](https://www.pmusociety.com/getstarted), we do not guess what works. Our numbers prove our methods. We generate over two thousand bookings for our members monthly. This results from proven, driven by data strategies refined over years working with hundreds of PMU professionals. We have helped them generate millions in bookings, and a huge part of that success comes from mastering referrals. Forget fluffy advice. We are here to give you the no nonsense, actionable steps to build a self sustaining referral engine.
 
 This article guides you through the strategies we use to turn happy clients into your most effective marketing channel. We will cover asking for reviews, creating a memorable client experience, leveraging social media, implementing a rewards programme that works, and using smart automation to keep your business top of mind. Stop waiting for referrals and start systematically generating them.
 
@@ -41,6 +41,8 @@ Think about what would genuinely motivate your clients. A small discount might n
 
 Make it incredibly easy to participate. Provide clients with physical referral cards they can give to friends. The cards should have your business details and a space for your client to write their name, so you can track the referral. You can also implement a digital system through your CRM. Our Scale My Salon platform, for example, can automate this, sending unique referral links to your clients that they can easily share. The easier you make it to share, the more referrals you will get. A well structured referral programme is a powerful engine for growth.
 
+<div class="pmu-cta-inline"><p>PMU Society helps permanent makeup artists generate 30 to 90 new bookings in just 90 days. Want to see how it works? <a href="https://www.pmusociety.com/getstarted">Book your free discovery call here.</a></p></div>
+
 ## Automated Excellence: The Power of Smart Follow Ups
 
 In a busy PMU studio, it is easy to lose touch with clients after their final appointment. This is a massive missed opportunity. The period after the treatment is crucial for building a long term relationship and securing future business and referrals. This is where automation becomes your secret weapon. Automated, personalised follow up messages can keep you connected with your clients, ensure they are happy, and gently remind them to spread the word, all without you lifting a finger.
@@ -57,10 +59,4 @@ This VIP experience starts long before they walk through your door. It begins wi
 
 The treatment itself should be as comfortable as possible. Explain each step, check in with them regularly, and ensure they feel safe and relaxed. Afterwards, provide a beautiful aftercare package. Do not just hand them a tube of cream. Present it in a branded bag with a printed instruction card, a small chocolate, and a handwritten thank you note. It is these thoughtful touches that elevate your service from good to unforgettable. When you consistently deliver a VIP experience, your clients will feel valued and appreciated. They will be proud to be associated with your brand and eager to share their amazing experience.
 
-## Your Next Steps to a Full Appointment Book
-
-There you have it. Five practical, proven strategies to turn every client into a referral machine. Stop thinking of referrals as a lucky bonus and start treating them as a core pillar of your marketing strategy. By proactively asking for reviews, encouraging user generated content, implementing a smart referral programme, automating your follow ups, and delivering an unforgettable VIP experience, you can create a predictable, sustainable stream of new clients.
-
-We know these strategies work because we see them in action every day. We help over one hundred PMU professionals implement these systems and watch their businesses grow. They are booking more clients, generating more revenue, and building the businesses of their dreams. You can have this too. It just takes a commitment to excellence and a willingness to put these proven systems into practice.
-
-Are you ready to stop struggling and start scaling? If you are serious about growing your PMU business and creating a consistent flow of high quality clients, then it is time to talk to us. We guarantee to get you 30 to 90 new bookings in your first 90 days. Visit pmusociety.com/get-started to book a free strategy session with our team. Let’s build your PMU empire, together.
+<div class="pmu-cta"><h3>Ready to Fill Your Calendar?</h3><p>PMU Society has helped over 100 permanent makeup artists build thriving, fully booked businesses. We generate over 2,000 bookings every single month. Let us do the same for you.</p><a href="https://www.pmusociety.com/getstarted" class="cta-button">Get Started Today</a></div>

@@ -1,198 +1,501 @@
+/* ==========================================================
+   PMU Society Blog — Premium Theme v3
+   Priorities: Readability, Premium Feel, Mobile-First
+   ========================================================== */
 
-/* PMU Society Blog - Premium Redesign CSS */
-
-/* 1. Core Variables & Body
--------------------------------------------------- */
+/* 1. PaperMod Variable Overrides (Dark Mode)
+---------------------------------------------------------- */
 :root {
-    --primary: #14d171; /* PMU Society Green */
-    --primary-light: #2fd171; /* Lighter green for text accents */
-    --secondary: #e0e0e0; /* Main text color */
-    --bg: #000000; /* Pure black background */
-    --bg-alt: #0a0a0a; /* Slightly lighter black for cards/modules */
-    --border-color: #1a1a1a; /* Subtle border color */
-    --code-bg: #111;
-    --card-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-    --card-hover-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+    --theme: #000000;
+    --entry: #111111;
+    --primary: #ffffff;
+    --secondary: #d4d4d4;
+    --tertiary: #1a1a1a;
+    --content: #f0f0f0;
+    --code-bg: #161616;
+    --border: #1e1e1e;
+    --gap: 24px;
+    --radius: 10px;
 }
 
+.dark {
+    --theme: #000000;
+    --entry: #111111;
+    --primary: #ffffff;
+    --secondary: #d4d4d4;
+    --tertiary: #1a1a1a;
+    --content: #f0f0f0;
+    --code-bg: #161616;
+    --border: #1e1e1e;
+}
+
+/* 2. Global Body & Typography
+---------------------------------------------------------- */
 body {
-    background-color: var(--bg);
-    color: var(--secondary);
-    font-family: "Inter", sans-serif;
+    background: #000;
+    color: #f0f0f0;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-size: 1.05rem;
+    line-height: 1.9;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 
-/* 2. Typography
--------------------------------------------------- */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 700;
     color: #ffffff;
+    font-weight: 700;
+    letter-spacing: -0.02em;
 }
 
-.post-title {
-    font-size: 2.5rem; /* Larger for single post view */
-    font-weight: 800;
+p, li, td, th, dd, dt {
+    color: #f0f0f0;
 }
 
-.post-content h2 {
-    font-size: 1.8rem;
-    margin-top: 2.5em;
-    border-bottom: 1px solid var(--border-color);
-    padding-bottom: 0.5em;
-}
-
-.post-content h3 {
-    font-size: 1.4rem;
-    margin-top: 2em;
+strong, b {
+    color: #ffffff;
+    font-weight: 600;
 }
 
 a {
-    color: var(--secondary);
+    color: #14d171;
     text-decoration: none;
-    transition: color 0.2s ease-in-out;
+    transition: color 0.2s ease;
 }
 
 a:hover {
-    color: var(--primary);
+    color: #4ae68d;
 }
 
 /* 3. Header & Navigation
--------------------------------------------------- */
-.header {
-    background: rgba(0,0,0,0.8);
-    backdrop-filter: blur(10px);
-    box-shadow: none;
-    border-bottom: 1px solid var(--border-color);
+---------------------------------------------------------- */
+.nav {
+    background: rgba(0, 0, 0, 0.92);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid #1e1e1e;
+    max-width: 100%;
 }
 
-.logo-switches .logo a {
-    color: #ffffff;
+.logo a {
+    color: #ffffff !important;
     font-weight: 700;
+    font-size: 1.15rem;
+    letter-spacing: -0.01em;
 }
 
-.menu a {
+#menu a {
+    color: #d4d4d4 !important;
     font-weight: 500;
+    font-size: 0.95rem;
+    transition: color 0.2s ease;
 }
 
-.menu .active {
-    font-weight: 700;
-    color: var(--primary);
+#menu a:hover {
+    color: #ffffff !important;
 }
 
-/* CTA Button in Nav */
-.menu a.button,
+/* CTA button in nav */
 #menu li:last-child a {
-    background-color: var(--primary);
-    color: var(--bg) !important; /* Black text on green button */
-    padding: 8px 16px;
+    background: #14d171 !important;
+    color: #000000 !important;
+    padding: 8px 18px !important;
     border-radius: 6px;
     font-weight: 600;
-    transition: all 0.2s ease;
+    font-size: 0.9rem;
+    transition: all 0.25s ease;
 }
 
-.menu a.button:hover,
 #menu li:last-child a:hover {
-    background-color: #fff;
-    color: var(--bg) !important;
+    background: #ffffff !important;
+    color: #000000 !important;
     transform: translateY(-1px);
 }
 
-/* 4. Post Cards (List View)
--------------------------------------------------- */
-.first-entry {
-    border-radius: 8px;
-    background: var(--bg-alt);
-    border: 1px solid var(--border-color);
+/* 4. Homepage / Profile Section
+---------------------------------------------------------- */
+.home-info .entry-content {
+    color: #d4d4d4;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    max-width: 640px;
 }
 
+.home-info h1 {
+    color: #ffffff;
+    font-size: 2.2rem;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    margin-bottom: 0.5rem;
+}
+
+.first-entry {
+    background: #111111;
+    border: 1px solid #1e1e1e;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.first-entry .entry-header h2 {
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+
+/* 5. Post Cards (List View)
+---------------------------------------------------------- */
 .post-entry {
-    background: var(--bg-alt);
-    border: 1px solid var(--border-color);
-    border-radius: 8px;
-    margin-bottom: 20px;
-    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+    background: #111111;
+    border: 1px solid #1e1e1e;
+    border-radius: 10px;
+    margin-bottom: 1.25rem;
+    overflow: hidden;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
 }
 
 .post-entry:hover {
-    transform: translateY(-5px);
-    box-shadow: var(--card-hover-shadow);
-    border-color: #222;
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.5);
+    border-color: #2a2a2a;
 }
 
-.post-entry .post-title {
-    font-size: 1.25rem;
-    font-weight: 600;
+.post-entry .entry-header h2 {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 1.2rem;
+    border: none;
+    padding-bottom: 0;
+    line-height: 1.4;
 }
 
 .post-entry .entry-content {
-    font-size: 0.95rem;
-    color: #a0a0a0;
+    color: #b0b0b0;
+    font-size: 0.92rem;
+    line-height: 1.6;
 }
 
-.post-header {
-    padding: 25px;
+.post-entry .entry-cover img {
+    border-radius: 10px 10px 0 0;
 }
 
-.post-footer {
-    padding: 0 25px 25px;
+.post-entry .post-meta {
+    color: #888;
+    font-size: 0.82rem;
 }
 
-.entry-cover img {
-    border-radius: 8px 8px 0 0;
+/* 6. Single Post View
+---------------------------------------------------------- */
+.post-title {
+    font-size: 2.4rem;
+    font-weight: 800;
+    color: #ffffff;
+    line-height: 1.2;
+    letter-spacing: -0.03em;
+    margin-bottom: 0.75rem;
 }
 
-/* 5. Single Post View
--------------------------------------------------- */
-.post-content blockquote {
-    border-left: 3px solid var(--primary);
-    background-color: var(--bg-alt);
-    padding: 15px 20px;
+.post-meta {
+    color: #999;
+    font-size: 0.88rem;
+    margin-bottom: 2rem;
+}
+
+.post-content {
+    font-size: 1.08rem;
+    line-height: 2;
+    color: #f0f0f0;
+    max-width: 720px;
+}
+
+.post-content p {
+    margin-bottom: 1.75rem;
+    color: #f0f0f0;
+}
+
+.post-content h2 {
+    font-size: 1.7rem;
+    font-weight: 700;
+    color: #ffffff;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #1e1e1e;
+}
+
+.post-content h3 {
+    font-size: 1.35rem;
+    font-weight: 600;
+    color: #ffffff;
+    margin-top: 2.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.post-content ul, .post-content ol {
+    margin-bottom: 1.75rem;
+    padding-left: 1.5rem;
+}
+
+.post-content li {
+    margin-bottom: 0.6rem;
+    color: #f0f0f0;
+    line-height: 1.8;
+}
+
+.post-content strong {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.post-content em {
+    color: #f0f0f0;
     font-style: italic;
 }
 
-.toc {
-    background: var(--bg-alt);
-    border: 1px solid var(--border-color);
-    border-radius: 8px;
+/* Blockquotes */
+.post-content blockquote {
+    border-left: 4px solid #14d171;
+    background: #0d0d0d;
+    padding: 1.25rem 1.5rem;
+    margin: 2rem 0;
+    border-radius: 0 8px 8px 0;
+    color: #e0e0e0;
+    font-style: italic;
+    line-height: 1.8;
 }
 
+.post-content blockquote p {
+    color: #e0e0e0;
+    margin-bottom: 0;
+}
+
+/* Images in posts */
+.post-content img {
+    border-radius: 8px;
+    margin: 1.5rem 0;
+}
+
+/* 7. CTA Section Styling (in-post)
+---------------------------------------------------------- */
+.pmu-cta {
+    background: linear-gradient(135deg, #0a1a10 0%, #0d2818 50%, #0a1a10 100%);
+    border: 1px solid #14d171;
+    border-radius: 12px;
+    padding: 2.5rem 2rem;
+    margin: 3rem 0;
+    text-align: center;
+}
+
+.pmu-cta h3 {
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+}
+
+.pmu-cta p {
+    color: #d4d4d4;
+    font-size: 1.05rem;
+    margin-bottom: 1.5rem;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pmu-cta a.cta-button {
+    display: inline-block;
+    background: #14d171;
+    color: #000000 !important;
+    padding: 14px 32px;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 1.05rem;
+    text-decoration: none;
+    transition: all 0.25s ease;
+}
+
+.pmu-cta a.cta-button:hover {
+    background: #ffffff;
+    color: #000000 !important;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(20, 209, 113, 0.25);
+}
+
+/* Mid-article CTA (smaller, inline) */
+.pmu-cta-inline {
+    background: #0d1a12;
+    border: 1px solid #1a3a25;
+    border-radius: 10px;
+    padding: 1.5rem 1.75rem;
+    margin: 2.5rem 0;
+}
+
+.pmu-cta-inline p {
+    color: #d4d4d4;
+    margin-bottom: 0;
+    font-size: 1rem;
+}
+
+.pmu-cta-inline a {
+    color: #14d171;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.pmu-cta-inline a:hover {
+    color: #4ae68d;
+}
+
+/* 8. Tags
+---------------------------------------------------------- */
 .post-tags a {
-    background-color: var(--bg-alt);
-    border: 1px solid var(--border-color);
-    color: var(--secondary);
-    font-size: 0.8rem;
-    padding: 5px 10px;
-    border-radius: 5px;
+    background: #161616;
+    border: 1px solid #2a2a2a;
+    color: #d4d4d4;
+    font-size: 0.82rem;
+    padding: 5px 12px;
+    border-radius: 6px;
+    transition: all 0.2s ease;
 }
 
 .post-tags a:hover {
-    background-color: var(--primary);
-    color: var(--bg);
-    border-color: var(--primary);
+    background: #14d171;
+    color: #000;
+    border-color: #14d171;
 }
 
-/* 6. Footer
--------------------------------------------------- */
+/* 9. Table of Contents
+---------------------------------------------------------- */
+.toc {
+    background: #0d0d0d;
+    border: 1px solid #1e1e1e;
+    border-radius: 10px;
+}
+
+.toc a {
+    color: #d4d4d4;
+}
+
+.toc a:hover {
+    color: #14d171;
+}
+
+/* 10. Breadcrumbs
+---------------------------------------------------------- */
+.breadcrumbs a {
+    color: #14d171;
+}
+
+.breadcrumbs span {
+    color: #666;
+}
+
+/* 11. Share Buttons
+---------------------------------------------------------- */
+.share-buttons a {
+    background: #161616;
+    border: 1px solid #2a2a2a;
+    border-radius: 8px;
+    transition: all 0.2s ease;
+}
+
+.share-buttons a:hover {
+    background: #14d171;
+    border-color: #14d171;
+}
+
+/* 12. Pagination
+---------------------------------------------------------- */
+.pagination a {
+    background: #111;
+    border: 1px solid #2a2a2a;
+    color: #d4d4d4;
+    border-radius: 8px;
+    transition: all 0.2s ease;
+}
+
+.pagination a:hover {
+    background: #14d171;
+    color: #000;
+    border-color: #14d171;
+}
+
+/* 13. Footer
+---------------------------------------------------------- */
 .footer {
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid #1e1e1e;
+    background: #000;
+    color: #888;
 }
 
-/* 7. Misc & Overrides
--------------------------------------------------- */
-.archive-title {
-    color: #fff;
+.footer a {
+    color: #14d171;
 }
 
-.page-header h1 {
-    font-size: 2rem;
+/* 14. Scrollbar
+---------------------------------------------------------- */
+::-webkit-scrollbar {
+    width: 8px;
 }
 
-.main {
-    padding-top: 40px;
+::-webkit-scrollbar-track {
+    background: #000;
 }
 
-/* Disable theme-switch button */
+::-webkit-scrollbar-thumb {
+    background: #333;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* 15. Selection
+---------------------------------------------------------- */
+::selection {
+    background: rgba(20, 209, 113, 0.3);
+    color: #ffffff;
+}
+
+/* 16. Disable theme toggle
+---------------------------------------------------------- */
 .logo-switches .theme-switch {
     display: none;
+}
+
+/* 17. Responsive
+---------------------------------------------------------- */
+@media (max-width: 768px) {
+    .post-title {
+        font-size: 1.75rem;
+    }
+
+    .home-info h1 {
+        font-size: 1.6rem;
+    }
+
+    .post-content {
+        font-size: 1rem;
+        line-height: 1.85;
+    }
+
+    .post-content h2 {
+        font-size: 1.4rem;
+    }
+
+    .post-content h3 {
+        font-size: 1.2rem;
+    }
+
+    .pmu-cta {
+        padding: 2rem 1.25rem;
+    }
+
+    .pmu-cta h3 {
+        font-size: 1.3rem;
+    }
+
+    .pmu-cta a.cta-button {
+        padding: 12px 24px;
+        font-size: 0.95rem;
+    }
 }

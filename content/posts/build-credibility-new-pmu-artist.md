@@ -31,6 +31,8 @@ In the world of permanent makeup, safety is not just a priority, it is a prerequ
 
 Make your commitment to hygiene a core part of your brand identity. Your clients should have zero doubts about your professionalism and the safety of your procedures. This focus on safety does more than just reassure them, it positions you as a responsible and trustworthy professional. In an industry where standards can vary, being a vocal advocate for the highest levels of hygiene will set you apart and build immense credibility. You become the safe choice, the smart choice.
 
+<div class="pmu-cta-inline"><p>PMU Society helps permanent makeup artists generate 30 to 90 new bookings in just 90 days. Want to see how it works? <a href="https://www.pmusociety.com/getstarted">Book your free discovery call here.</a></p></div>
+
 ## The Power of a Risk Free Consultation
 
 For a potential client, booking a PMU procedure is a big decision. They have questions and they have fears. What if they do not like the shape? What if the colour is wrong? An excellent way to overcome this hesitation is to offer a risk free consultation. This is not just a quick chat. It is a dedicated session where you can showcase your expertise and build a personal connection. Use this time to listen to their concerns, answer their questions, and map out a customised treatment plan.
@@ -43,10 +45,4 @@ Nothing builds trust faster than the positive words of a happy client. As soon a
 
 Video testimonials are even more powerful. A short clip of a client gushing about their new brows is marketing gold. Encourage clients to share selfies and tag you on social media. Feature these user generated posts prominently. Every review, every tag, every shared photo is a vote of confidence that new clients will see. This collection of social proof acts as a powerful chorus, validating your skills and telling the world that you are a PMU artist who delivers incredible results. It is the ultimate credibility builder, turning your first few clients into your most effective marketing team.
 
-## Your Next Step to a Fully Booked Calendar
-
-Building credibility is not an overnight process, but it is a straightforward one. It is about strategically showcasing your skills, your professionalism, and your dedication to your clients. By highlighting your training, documenting your journey, prioritising safety, offering risk free consultations, and gathering social proof, you create an undeniable case for why clients should trust you, even when you are new to the industry.
-
-We see artists implement these strategies and go from having two or three clients a week to having a full three month waiting list. It is not magic, it is smart business. You have the talent. Now it is time to build the trust that turns that talent into a thriving business.
-
-Ready to stop worrying about credibility and start getting a steady stream of clients? We guarantee we can help you get 30 to 90 bookings in just 90 days. Visit [pmusociety.com/get-started](https://pmusociety.com/get-started) to learn more and book your discovery call. Let us show you how to scale your salon. 
+<div class="pmu-cta"><h3>Ready to Fill Your Calendar?</h3><p>PMU Society has helped over 100 permanent makeup artists build thriving, fully booked businesses. We generate over 2,000 bookings every single month. Let us do the same for you.</p><a href="https://www.pmusociety.com/getstarted" class="cta-button">Get Started Today</a></div>

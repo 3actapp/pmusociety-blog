@@ -12,7 +12,7 @@ ShowToc: true
 TocOpen: true
 ---
 
-Let us be blunt with you: your photos are either making you money or costing you money. There is no middle ground. At PMU Society, we generate over 2,000 bookings every single month for permanent makeup artists across the UK, and one of the first things we look at when onboarding a new artist is their portfolio. Nine times out of ten, the reason an artist is struggling to fill their calendar has nothing to do with their skill level. It comes down to how they are presenting their work.
+Let us be blunt with you: your photos are either making you money or costing you money. There is no middle ground. At [PMU Society](https://www.pmusociety.com/getstarted), we generate over 2,000 bookings every single month for permanent makeup artists across the UK, and one of the first things we look at when onboarding a new artist is their portfolio. Nine times out of ten, the reason an artist is struggling to fill their calendar has nothing to do with their skill level. It comes down to how they are presenting their work.
 
 Your before and after photos are your single most powerful sales tool. They are the first thing a potential client sees, and they make a split second decision about whether you are worth their time and money. So let us walk you through exactly how to get this right.
 
@@ -39,6 +39,8 @@ Avoid harsh overhead lighting that creates shadows under the brows. Side lightin
 This is where so many artists slip up. If your before photo is taken from slightly above and your after is taken straight on, the comparison is meaningless. Clients cannot properly appreciate the transformation if the angles are different. Use a consistent shooting position for every single client. Straight on, at eye level, with the camera roughly 30 to 40 centimetres from the face.
 
 Consider marking a spot on the floor where you stand and a spot where the client sits. This might sound excessive, but consistency is what separates a professional portfolio from a messy one.
+
+<div class="pmu-cta-inline"><p>PMU Society helps permanent makeup artists generate 30 to 90 new bookings in just 90 days. Want to see how it works? <a href="https://www.pmusociety.com/getstarted">Book your free discovery call here.</a></p></div>
 
 ### Get the Client Smiling in the After Shot
 
@@ -84,10 +86,6 @@ Invest in a ring light (around £30 to £80 for a decent one). Get a phone tripo
 
 Great photos are only valuable if people actually see them. Post your best before and after shots consistently on Instagram and Facebook. Use them in your paid advertising campaigns. Feature them prominently on your website and booking page. Include them in your automated follow up sequences so that leads who have not yet booked are reminded of the quality of your work.
 
-At PMU Society, we help our artists turn their portfolios into booking machines. The right photo, shown to the right person at the right time, can be the difference between an empty calendar and a fully booked month.
+At [PMU Society](https://www.pmusociety.com/getstarted), we help our artists turn their portfolios into booking machines. The right photo, shown to the right person at the right time, can be the difference between an empty calendar and a fully booked month.
 
-## Ready to Fill Your Calendar with Clients Who Love Your Work?
-
-If you are tired of incredible work going unnoticed because your marketing is not doing it justice, PMU Society can help. We have generated over 2,000 bookings per month for PMU artists across the UK using proven systems that combine stunning content with targeted advertising and automated follow ups.
-
-**[Apply now at pmusociety.com/get-started](https://pmusociety.com/get-started)** and find out exactly how we can help you get fully booked in the next 90 days. No fluff, no guesswork, just real systems that deliver real results.
+<div class="pmu-cta"><h3>Ready to Fill Your Calendar?</h3><p>PMU Society has helped over 100 permanent makeup artists build thriving, fully booked businesses. We generate over 2,000 bookings every single month. Let us do the same for you.</p><a href="https://www.pmusociety.com/getstarted" class="cta-button">Get Started Today</a></div>

@@ -13,7 +13,7 @@ TocOpen: true
 
 Is your permanent makeup business getting lost in the noise? You are brilliant at what you do, your work is flawless, yet your appointment book has more gaps than you would like. The market feels saturated, with new artists appearing constantly. How do you make your signal strong enough to cut through the static and attract a steady stream of dream clients? The answer lies in powerful, strategic branding.
 
-Here at PMU Society, we are not just guessing what works. We are in the trenches, actively booking over two thousand PMU clients for our members every single month. We have generated millions in revenue for artists just like you. We know what it takes to go from being just another artist to becoming the go to expert in your area. It is not about luck; it is about a deliberate, intelligent branding strategy. This is not fluffy marketing theory. This is a practical guide to building a brand that books.
+Here at [PMU Society](https://www.pmusociety.com/getstarted), we are not just guessing what works. We are in the trenches, actively booking over two thousand PMU clients for our members every single month. We have generated millions in revenue for artists just like you. We know what it takes to go from being just another artist to becoming the go to expert in your area. It is not about luck; it is about a deliberate, intelligent branding strategy. This is not fluffy marketing theory. This is a practical guide to building a brand that books.
 
 ## Stop Being a Generalist: The Power of a Niche
 
@@ -33,6 +33,8 @@ Your online presence is your digital clinic. It needs to be as clean, profession
 
 Your website must be modern, mobile friendly, and easy to navigate. Your Instagram feed should be a curated gallery of your best work, not a random collection of photos. Every touchpoint is an opportunity to reinforce your brand’s quality and professionalism. We provide our members with the Scale My Salon CRM, a system designed to create this seamless experience, ensuring that from the first click to the final booking, the client journey is smooth, professional, and completely on brand.
 
+<div class="pmu-cta-inline"><p>PMU Society helps permanent makeup artists generate 30 to 90 new bookings in just 90 days. Want to see how it works? <a href="https://www.pmusociety.com/getstarted">Book your free discovery call here.</a></p></div>
+
 ## Show the Magic: The Power of Behind the Scenes
 
 People buy from people they know, like, and trust. In the aesthetics industry, trust is everything. One of the most powerful ways to build this trust is by pulling back the curtain and showing the process. Behind the scenes clips are marketing gold.
@@ -45,12 +47,4 @@ Did you know that only a tiny fraction of first time visitors to your website or
 
 Retargeting ads are shown specifically to people who have already interacted with your brand online. They have visited your website, engaged with your Instagram, or watched one of your videos. They are a warm audience. They already know who you are. A strategic retargeting campaign keeps your brand top of mind, gently reminding them of the beautiful work you do. You can show them testimonials, special offers, or more examples of your specialised service. It is a sophisticated, highly effective way to guide potential clients from initial interest to a confirmed booking. It is one of the core strategies we use to generate thousands of bookings for our members every month.
 
-## Ready to Build a Brand That Dominates?
-
-Building a standout brand in a crowded market is not a mystery. It is a formula. It requires focus, consistency, and the implementation of proven strategies. You need to specialise, create a polished visual identity, build a seamless online ecosystem, connect with your audience through authentic content, and use smart advertising to seal the deal.
-
-Trying to piece all of this together on your own can be overwhelming. That is why we created PMU Society. We provide the tools, the strategies, and the support to turn talented artists into powerhouse business owners. We have a track record that speaks for itself, generating millions in bookings for professionals just like you.
-
-If you are tired of being just another face in the crowd and are ready to build a brand that attracts a consistent flow of high paying clients, then it is time to act. Stop struggling and start scaling.
-
-Visit pmusociety.com/get-started to learn how we can help you generate 30 to 90 new bookings in the next 90 days. Guaranteed. Let’s build your empire together.
+<div class="pmu-cta"><h3>Ready to Fill Your Calendar?</h3><p>PMU Society has helped over 100 permanent makeup artists build thriving, fully booked businesses. We generate over 2,000 bookings every single month. Let us do the same for you.</p><a href="https://www.pmusociety.com/getstarted" class="cta-button">Get Started Today</a></div>

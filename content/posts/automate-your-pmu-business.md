@@ -15,7 +15,7 @@ TocOpen: true
 
 Let’s be honest for a moment. You became a permanent makeup artist to create beautiful art, to transform faces, and to build a life of freedom and creativity. You did not sign up to become a full time receptionist, a personal assistant, a debt collector, and a social media manager all rolled into one. Yet, for so many PMU professionals, that is the reality. The endless stream of enquiries, the back and forth scheduling, the deposit chasing, the appointment reminders, the follow up messages. It is a relentless grind that steals your time, drains your energy, and ultimately, caps your earning potential.
 
-We see it every single day. Talented artists are drowning in a sea of administrative tasks. They are chained to their phones, replying to messages at all hours, manually tracking clients in a messy spreadsheet, and spending more time managing their business than actually working in it. This is not just tiring; it is expensive. Every hour you spend on a ten pound admin task is an hour you are not spending on a two hundred pound treatment. It is a direct loss of income. Here at PMU Society, we generate millions in bookings for our members because we understand a fundamental truth: your focus should be on your craft, not on your calendar.
+We see it every single day. Talented artists are drowning in a sea of administrative tasks. They are chained to their phones, replying to messages at all hours, manually tracking clients in a messy spreadsheet, and spending more time managing their business than actually working in it. This is not just tiring; it is expensive. Every hour you spend on a ten pound admin task is an hour you are not spending on a two hundred pound treatment. It is a direct loss of income. Here at [PMU Society](https://www.pmusociety.com/getstarted), we generate millions in bookings for our members because we understand a fundamental truth: your focus should be on your craft, not on your calendar.
 
 This article is your way out. We are going to show you exactly how to automate the mundane, reclaim your precious time, and build a PMU business that serves you, not the other way around. Forget the fluff and the complicated tech talk. This is a no nonsense guide to smart automation, based on the very systems we use to generate over two thousand bookings for our artists every single month. It is time to get your life back.
 
@@ -37,13 +37,15 @@ Automating your business does not mean turning it into a cold, robotic empire. I
 
 A CRM, or Customer Relationship Management system, is the single most important investment you will make in your business. Forget your messy notebooks, your complicated spreadsheets, and the thousands of notes on your phone. A CRM is your central command centre for everything client related. It is a database that stores every piece of information about your clients: their contact details, their appointment history, their patch test results, their before and after photos, their personal preferences, everything.
 
-At PMU Society, we provide our members with our own bespoke CRM, Scale My Salon. It is built on the world class GoHighLevel platform and is specifically designed for the needs of a modern PMU artist. It is not just a database; it is an engine for growth. It allows you to see your entire client journey at a glance, from the initial enquiry right through to their annual top up. This is not a nice to have. It is the absolute foundation of an automated, scalable business.
+At [PMU Society](https://www.pmusociety.com/getstarted), we provide our members with our own bespoke CRM, Scale My Salon. It is built on the world class GoHighLevel platform and is specifically designed for the needs of a modern PMU artist. It is not just a database; it is an engine for growth. It allows you to see your entire client journey at a glance, from the initial enquiry right through to their annual top up. This is not a nice to have. It is the absolute foundation of an automated, scalable business.
 
 ### The Magic of Automated Sequences
 
 This is where you truly start to reclaim your time. Once you have a CRM, you can build automated text and email sequences that run your business for you, 24/7. Imagine this: a potential client fills out a form on your website. Instantly, they receive a professionally written email with your price list, FAQs, and a link to book a consultation. They book in, and the system automatically sends them a confirmation, a calendar invite, and a request for a deposit. Two days before their appointment, they get an automated reminder. The day after, they receive a message checking in and explaining the aftercare process. Six weeks later, the system prompts them to book their top up. A year later, it reminds them it is time for their colour boost.
 
 You have just provided a flawless, high touch client experience without lifting a finger. Every client gets the same VIP treatment, every single time. No one falls through the cracks. This is the power of automation. You can create sequences for new enquiries, for post treatment follow ups, for re-engaging old clients, and for promoting special offers. It is like having the world’s most efficient assistant working for you around the clock.
+
+<div class="pmu-cta-inline"><p>PMU Society helps permanent makeup artists generate 30 to 90 new bookings in just 90 days. Want to see how it works? <a href="https://www.pmusociety.com/getstarted">Book your free discovery call here.</a></p></div>
 
 ### Streamline Your FAQs and Save Hours
 
@@ -59,12 +61,4 @@ When your systems are integrated, you gain invaluable insights into your busines
 
 This is the secret behind our 30 to 90 bookings in 90 days guarantee. We do not just throw marketing tactics at the wall and hope something sticks. We implement a proven, automated system that captures leads, nurtures them, and converts them into paying clients with predictable consistency. It is a machine for growth, and it is what separates the struggling artists from the six figure salon owners.
 
-## Are You Ready to Reclaim Your Time?
-
-Stop being the busiest, most underpaid employee in your own business. Stop letting admin tasks dictate your life and limit your income. The tools and strategies exist to build a more profitable, more enjoyable, and more automated PMU business. It is time to embrace them.
-
-You have a choice. You can continue the daily grind of manual everything, or you can implement a system that works for you, freeing up hours every single day to focus on your clients, your craft, or even just yourself. Imagine a business where bookings come in while you sleep, where reminders are sent without you thinking about it, and where every client feels perfectly looked after, automatically.
-
-This is not a fantasy. This is what we help PMU artists achieve every single day. If you are tired of the admin overwhelm and ready to see how our automated systems can transform your business, then it is time to talk. We have generated millions in bookings for over one hundred PMU professionals just like you. We know what works.
-
-**Ready to build a business that finally serves you? Visit pmusociety.com/get-started to book a free discovery call with our team today. Let’s show you what is possible.**
+<div class="pmu-cta"><h3>Ready to Fill Your Calendar?</h3><p>PMU Society has helped over 100 permanent makeup artists build thriving, fully booked businesses. We generate over 2,000 bookings every single month. Let us do the same for you.</p><a href="https://www.pmusociety.com/getstarted" class="cta-button">Get Started Today</a></div>

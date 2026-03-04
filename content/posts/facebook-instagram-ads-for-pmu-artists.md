@@ -13,7 +13,7 @@ TocOpen: true
 
 Are you sick of posting on Instagram every single day for a handful of likes and maybe, just maybe, one new client a month? It feels like a hamster wheel, doesn't it? You pour hours into creating content, choosing the right hashtags, and engaging with followers, only to get scraps in return. The truth is, relying solely on organic social media in today's world is a slow, painful, and deeply unreliable way to grow your permanent makeup business.
 
-It is time to stop playing games and start building a real, predictable client acquisition machine. Imagine adding an extra 10 to 15 high value bookings to your calendar every single month, without spending all your time glued to your phone. Imagine a system that brings in new leads every day and automatically nurtures them towards booking an appointment. This is not a fantasy. This is the power of paid advertising when it is done correctly. Here at PMU Society, we are not just guessing. We generate over 2,000 bookings for more than 100 PMU professionals every single month. We know what works, and we are going to show you how.
+It is time to stop playing games and start building a real, predictable client acquisition machine. Imagine adding an extra 10 to 15 high value bookings to your calendar every single month, without spending all your time glued to your phone. Imagine a system that brings in new leads every day and automatically nurtures them towards booking an appointment. This is not a fantasy. This is the power of paid advertising when it is done correctly. Here at [PMU Society](https://www.pmusociety.com/getstarted), we are not just guessing. We generate over 2,000 bookings for more than 100 PMU professionals every single month. We know what works, and we are going to show you how.
 
 ## Why Paid Ads Are No Longer Optional
 
@@ -43,7 +43,7 @@ When a user clicks your ad, they are presented with a simple form. The key here 
 
 This is the secret sauce. This is where 99% of PMU artists fail. A lead is useless if you do not have a system to convert it. As soon as that lead form is submitted, the clock is ticking. You must follow up instantly. Not in an hour. Not when you finish with your current client. Instantly.
 
-This is where a dedicated CRM, like our Scale My Salon platform, becomes essential. The moment a lead comes in, it should trigger an automated sequence of text messages and emails. The goal of this sequence is not to sell them on the spot; it is to get them to book a consultation call or appointment.
+This is where a dedicated CRM becomes essential. The moment a lead comes in, it should trigger an automated sequence of text messages and emails. The goal of this sequence is not to sell them on the spot; it is to get them to book a consultation call or appointment.
 
 Here is a sample of a proven sequence:
 
@@ -55,18 +55,12 @@ This automated system works 24 hours a day, 7 days a week, ensuring that every s
 
 ## Beyond the Funnel: Local SEO and Reviews
 
+<div class="pmu-cta-inline"><p>PMU Society helps permanent makeup artists generate 30 to 90 new bookings in just 90 days. Want to see how it works? <a href="https://www.pmusociety.com/getstarted">Book your free discovery call here.</a></p></div>
+
 While the ad funnel is your engine for new client acquisition, you cannot ignore the foundations of local search. When a lead hears about you, their first action is often to Google your business name. What they find needs to inspire confidence.
 
 This means optimising your Google Business Profile. Fill out every single section. Upload high quality photos of your work and your studio. Ensure your name, address, and phone number are consistent everywhere online. Most importantly, you need reviews. Lots of them. A steady stream of recent, positive, five star reviews is the single most powerful trust signal for a local business.
 
 Make it a core part of your process to ask every happy client for a review. Send them a direct link to your Google review page. The combination of a powerful ad funnel bringing in the leads and a stellar online reputation to close them is truly unstoppable.
 
-## Your Next Step to a Fully Booked Calendar
-
-Stop chasing clients. Stop wasting time on activities that produce zero results. It is time to implement a system that provides a predictable, reliable flow of new bookings into your PMU business every single month.
-
-We have shown you the exact blueprint that we use to generate millions in bookings for PMU artists just like you. It is not magic; it is a proven process. It requires a small investment, a solid system, and the discipline to see it through.
-
-If you are tired of the guesswork and ready to build a real client acquisition machine, then it is time for us to talk. We guarantee we can help you add 30 to 90 new bookings in the next 90 days.
-
-Visit [pmusociety.com/get-started](https://pmusociety.com/get-started) to book your free strategy session today. Let's get your calendar filled.
+<div class="pmu-cta"><h3>Ready to Fill Your Calendar?</h3><p>PMU Society has helped over 100 permanent makeup artists build thriving, fully booked businesses. We generate over 2,000 bookings every single month. Let us do the same for you.</p><a href="https://www.pmusociety.com/getstarted" class="cta-button">Get Started Today</a></div>

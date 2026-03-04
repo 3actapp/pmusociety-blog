@@ -13,7 +13,7 @@ TocOpen: true
 
 Are you tired of your calendar being filled with bargain hunters, time wasters, and no shows? It is a common frustration for many talented permanent makeup artists. You pour your heart, soul, and considerable skill into your craft, only to find yourself haggling over prices with people who will never truly value your expertise. It is a draining cycle that leaves you feeling undervalued and overworked. But what if we told you there is a better way? What if you could build a business that exclusively attracts premium clients, the kind who not only respect your artistry but are more than happy to pay what you are worth? 
 
-At PMU Society, we are not just talking hypotheticals. We have helped over one hundred PMU professionals transform their businesses, and collectively we generate millions in bookings every single month. We know what it takes to build a thriving, profitable PMU empire. It is not about luck. It is about strategy. It is time to stop competing on price and start competing on value. It is time to attract the clients you deserve.
+At [PMU Society](https://www.pmusociety.com/getstarted), we are not just talking hypotheticals. We have helped over one hundred PMU professionals transform their businesses, and collectively we generate millions in bookings every single month. We know what it takes to build a thriving, profitable PMU empire. It is not about luck. It is about strategy. It is time to stop competing on price and start competing on value. It is time to attract the clients you deserve.
 
 ## Showcase Your Expertise with Pride
 
@@ -39,6 +39,8 @@ During the consultation, explain why you use a particular pigment line, why your
 
 This educational approach also helps to filter out clients who are purely price driven. A client who is only interested in the cheapest deal will not value a detailed explanation of your process. A premium client, however, will appreciate your transparency and expertise. They want to understand the value they are receiving. By educating them, you empower them to make an informed decision, and you build a foundation of trust that can last for years. This is how you build a loyal clientele that returns again and again.
 
+<div class="pmu-cta-inline"><p>PMU Society helps permanent makeup artists generate 30 to 90 new bookings in just 90 days. Want to see how it works? <a href="https://www.pmusociety.com/getstarted">Book your free discovery call here.</a></p></div>
+
 ## Filter Out the Time Wasters
 
 One of the biggest drains on a PMU artist's time and energy is dealing with people who are not serious about booking. They ask endless questions, demand discounts, and then disappear without a trace. Or worse, they book an appointment and then fail to show up. To attract premium clients, you must have systems in place to filter out these time wasters. The most effective way to do this is by implementing deposits and consultation fees.
@@ -55,10 +57,4 @@ Invest in advanced masterclasses with the industry's best trainers. Travel to co
 
 Your commitment to education is also a powerful marketing tool. Share your new certificates on social media. Talk about the new techniques you have learned. This demonstrates your passion and your dedication to your craft, further solidifying your status as a leading expert in your area. Remember, your skills are your greatest asset. The more you sharpen them, the more valuable they become.
 
-## Are You Ready for Premium Clients?
-
-Attracting premium PMU clients is not about chance. It is a deliberate strategy that involves positioning yourself as an expert, creating an unparalleled client experience, educating your market, and protecting your time. It requires confidence, professionalism, and a commitment to excellence in every aspect of your business. Stop letting bargain hunters dictate your worth. It is time to build a business that reflects your true talent and rewards you accordingly.
-
-If you are ready to stop struggling and start thriving, we can help. At PMU Society, we provide the tools, the strategies, and the support you need to attract a steady stream of high paying clients. We have helped hundreds of artists just like you to achieve six figure incomes and build the businesses of their dreams. 
-
-Visit pmusociety.com get started to learn more about how we can help you generate 30 to 90 new bookings in the next 90 days. Guaranteed. The premium clients are out there. Let us show you how to attract them.
+<div class="pmu-cta"><h3>Ready to Fill Your Calendar?</h3><p>PMU Society has helped over 100 permanent makeup artists build thriving, fully booked businesses. We generate over 2,000 bookings every single month. Let us do the same for you.</p><a href="https://www.pmusociety.com/getstarted" class="cta-button">Get Started Today</a></div>

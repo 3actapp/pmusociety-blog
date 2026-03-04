@@ -41,6 +41,8 @@ Imagine your client receiving a message like this the morning after their appoin
 
 This simple message is incredibly powerful. It shows you are thinking of them. It reinforces your instructions. It normalises their experience. You can set up a sequence for the first three days, each one providing a relevant tip and a dose of reassurance. This proactive approach nips anxiety in the bud and builds a huge amount of trust and rapport. It transforms the client experience from one of uncertainty to one of feeling completely supported and cared for.
 
+<div class="pmu-cta-inline"><p>PMU Society helps permanent makeup artists generate 30 to 90 new bookings in just 90 days. Want to see how it works? <a href="https://www.pmusociety.com/getstarted">Book your free discovery call here.</a></p></div>
+
 ## The Ultimate Reassurance Tool: The Client Brow Diary
 
 Even with a guide and daily reminders, some clients will still feel anxious. They need to see that their experience is shared by others. This is where a client brow diary becomes your secret weapon. This is a real, day by day account of the healing process from a previous client’s perspective, complete with photos.
@@ -57,11 +59,5 @@ At PMU Society, we believe in systems. We believe that your time is best spent o
 
 We provide our members with the templates, the strategies, and the technology to implement these systems flawlessly. We know this works because we see the results every single day. Our members are not just surviving, they are thriving. They are booking thirty to ninety new clients in just ninety days. They are generating millions in collective revenue. They are calm, in control, and building businesses that give them financial freedom.
 
-## Ready to Stop the Stress and Scale Your Business?
-
-If you are tired of being a slave to your DMs and want to build a PMU business that is both profitable and professional, it is time to get serious about your systems. A flawless aftercare communication strategy is just one piece of the puzzle. From lead generation to booking automation, we can provide you with the tools and support you need to grow.
-
-Stop letting client anxiety dictate your day. It is time to take back control. 
-
-[**Visit pmusociety.com/get-started to book your free discovery call and learn how we can help you scale.**](https://pmusociety.com/get-started)
+<div class="pmu-cta"><h3>Ready to Fill Your Calendar?</h3><p>PMU Society has helped over 100 permanent makeup artists build thriving, fully booked businesses. We generate over 2,000 bookings every single month. Let us do the same for you.</p><a href="https://www.pmusociety.com/getstarted" class="cta-button">Get Started Today</a></div>
 '''

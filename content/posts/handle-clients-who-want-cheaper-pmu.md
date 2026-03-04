@@ -41,6 +41,8 @@ From the moment a client contacts you to the moment they walk out with their new
 
 These elements create a premium experience that justifies a premium price. The client is not just paying for the two hours they spend in your chair. They are investing in the confidence that comes from being in the hands of a true expert who has considered every detail. When someone is offering a service for half the price, they are invariably cutting corners. The experience will be rushed, the environment will be less than ideal, and the post procedure support will likely be nonexistent. You are offering a first class journey. Their friend is offering a budget flight. Make sure the client understands the difference.
 
+<div class="pmu-cta-inline"><p>PMU Society helps permanent makeup artists generate 30 to 90 new bookings in just 90 days. Want to see how it works? <a href="https://www.pmusociety.com/getstarted">Book your free discovery call here.</a></p></div>
+
 ## Stand Firm and Know Your Worth
 
 This is the most crucial point. After you have educated the client on your safety standards, shown them your incredible portfolio, and highlighted the luxury experience you provide, you must stand firm on your rates. Do not offer a discount. Do not apologise for your pricing. Do not waver.
@@ -55,11 +57,5 @@ Finally, gently remind them of the professional extras that come with your servi
 
 It also includes your time and expertise during the consultation and the top up session. You are not just performing a procedure; you are providing a comprehensive service that ensures a perfect, long lasting result. These are significant business costs that an amateur operating from their living room does not have. Your price reflects the reality of running a legitimate, professional, and safe business.
 
-## Your Next Step to a Fully Booked Calendar
-
-Handling the “my friend is cheaper” conversation is a rite of passage for any PMU artist. See it not as a challenge, but as an opportunity. An opportunity to educate, to showcase your value, and to solidify your position as a premium provider in your market. Build your business on a foundation of quality, safety, and unwavering self worth. The right clients will find you, and they will be more than happy to pay what you are worth.
-
-Are you ready to stop competing on price and start attracting high value clients who respect your craft? Are you tired of the feast or famine cycle and want a predictable stream of bookings every single month? That is what we specialise in at PMU Society. We help talented artists like you implement the systems and marketing strategies to generate 30 to 90 bookings in just 90 days. We know because we do it every day, generating over 2,000 bookings monthly for our members.
-
-Stop letting bargain hunters dictate your income. It is time to build the profitable PMU business you deserve. Visit pmusociety.com/get-started to find out how.
+<div class="pmu-cta"><h3>Ready to Fill Your Calendar?</h3><p>PMU Society has helped over 100 permanent makeup artists build thriving, fully booked businesses. We generate over 2,000 bookings every single month. Let us do the same for you.</p><a href="https://www.pmusociety.com/getstarted" class="cta-button">Get Started Today</a></div>
 '''

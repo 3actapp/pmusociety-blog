@@ -37,6 +37,8 @@ Second is the **Midpoint Reminder**. This should be sent automatically 72 to 48 
 
 Third is the **Final 24 Hour Reminder**. This is the last nudge. A simple, concise message sent the day before the appointment serves as a final memory jog. “Hi [Client Name], just a friendly reminder about your appointment with us tomorrow at [Time]. We are looking forward to seeing you!”. This automated three step process, all easily managed within a CRM like Scale My Salon, drastically reduces the chance of a client simply forgetting.
 
+<div class="pmu-cta-inline"><p>PMU Society helps permanent makeup artists generate 30 to 90 new bookings in just 90 days. Want to see how it works? <a href="https://www.pmusociety.com/getstarted">Book your free discovery call here.</a></p></div>
+
 ## Strategy 3: Upsell with Combo Packages
 
 How do you increase the value of a client and simultaneously secure their loyalty? You create irresistible package deals. Instead of just booking a client for an initial eyebrow treatment, you create a complete journey for them. The most effective way to do this is by packaging the initial treatment and the essential six week top up together at a slightly preferential rate.
@@ -55,12 +57,4 @@ Are you tracking your numbers? If you do not know your client retention rate, yo
 
 You might discover that clients who book on a Saturday are more likely to no show. You might find that clients who come from a specific referral source have a much higher retention rate. This data is pure gold. It allows you to make informed decisions. You could adjust your deposit policy for weekend bookings. You could double down on the marketing channels that bring you the best clients. Stop guessing and start knowing. Dive into your data, identify the patterns, and use that knowledge to make strategic changes that directly impact your bottom line.
 
-## Your Action Plan for a Leak Proof Business
-
-Reading this article is one thing. Taking action is what will make the difference. We have shown you the proven strategies that generate millions in bookings for PMU artists every year. The choice is now yours. You can continue to accept no shows and poor retention as a cost of doing business, or you can decide to build a more robust, profitable, and secure operation.
-
-Start today. Review your deposit policy. Implement an automated reminder system. Create compelling treatment packages. Perfect your follow up communication. And most importantly, start tracking your data. These are not quick fixes; they are the foundational pillars of a successful permanent makeup business.
-
-If you are ready to stop bleeding money and start scaling your PMU business with systems that work, then it is time to talk to us. We guarantee to get you 30 to 90 new client bookings in your first 90 days. 
-
-**Book your free discovery call at [pmusociety.com/get-started](https://pmusociety.com/get-started) and let us show you how.**
+<div class="pmu-cta"><h3>Ready to Fill Your Calendar?</h3><p>PMU Society has helped over 100 permanent makeup artists build thriving, fully booked businesses. We generate over 2,000 bookings every single month. Let us do the same for you.</p><a href="https://www.pmusociety.com/getstarted" class="cta-button">Get Started Today</a></div>

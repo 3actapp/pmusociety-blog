@@ -37,6 +37,8 @@ This means having a clean, professional website that is easy to navigate. It mea
 
 When you solidify your brand, you stop having to chase clients. They come to you. They see you as the leading authority in your specific niche, and they are willing to pay a premium for your expertise. A strong brand builds a moat around your business that competitors cannot easily cross.
 
+<div class="pmu-cta-inline"><p>PMU Society helps permanent makeup artists generate 30 to 90 new bookings in just 90 days. Want to see how it works? <a href="https://www.pmusociety.com/getstarted">Book your free discovery call here.</a></p></div>
+
 ## Strategy 3: Unleash Your Secret Weapon, Predictable Ads
 
 Organic marketing is wonderful, but it is unpredictable. Relying solely on referrals and social media posts is why you are stuck at a few bookings a week. To scale reliably, you need a tap you can turn on to generate leads on demand. That tap is paid advertising.
@@ -53,12 +55,4 @@ This is why we equip our members with our Scale My Salon platform. It is a syste
 
 This level of automation allows you to provide a flawless client experience without lifting a finger. It frees up your time, prevents no shows, and dramatically increases your client lifetime value. You cannot scale to twenty plus clients a month without it. You would burn out trying.
 
-## Your Path to a Fully Booked Calendar
-
-Scaling your PMU business from a handful of bookings to a full calendar is not a mystery. It is a formula. It requires a mindset shift from artist to CEO and the implementation of four key strategies: laser focusing on a specific client, building an authoritative brand, leveraging paid advertising, and automating your operations.
-
-We see artists use this exact formula to transform their businesses and their lives every single day. They go from feeling stressed and uncertain to feeling confident, in control, and financially secure. They build businesses that give them both freedom and fulfilment.
-
-Are you ready to stop struggling and start scaling? If you are serious about growing your permanent makeup business and want a proven partner to guide you, then it is time to take action. 
-
-**Visit pmusociety.com/get-started to learn more and book a call with our team. Let us show you how we can help you build the PMU business you have always dreamed of.**
+<div class="pmu-cta"><h3>Ready to Fill Your Calendar?</h3><p>PMU Society has helped over 100 permanent makeup artists build thriving, fully booked businesses. We generate over 2,000 bookings every single month. Let us do the same for you.</p><a href="https://www.pmusociety.com/getstarted" class="cta-button">Get Started Today</a></div>

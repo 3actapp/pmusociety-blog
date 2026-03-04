@@ -13,7 +13,7 @@ TocOpen: true
 
 So, you want to hit your first £10,000 month as a permanent makeup artist? Good. That is a proper goal, a real target to aim for. Too many artists in this industry play small, thinking that six figures is a pipe dream reserved for the lucky few. We are here to tell you that it is not about luck. It is about maths, mindset, and systems. Forget everything you think you know about scaling a PMU business. We are about to show you the real path.
 
-At PMU Society, we are not in the business of selling dreams or fluffy motivation. We are in the business of building empires. We generate over 2,000 bookings for our clients every single month, a number that speaks for itself. We have helped over one hundred PMU professionals just like you scale their businesses from struggling to successful, and we have generated millions in bookings for them. So when we talk about hitting £10k a month, we are not guessing or theorising. We are giving you a proven, battle tested roadmap that we execute daily.
+At [PMU Society](https://www.pmusociety.com/getstarted), we are not in the business of selling dreams or fluffy motivation. We are in the business of building empires. We generate over 2,000 bookings for our clients every single month, a number that speaks for itself. We have helped over one hundred PMU professionals just like you scale their businesses from struggling to successful, and we have generated millions in bookings for them. So when we talk about hitting £10k a month, we are not guessing or theorising. We are giving you a proven, battle tested roadmap that we execute daily.
 
 ## The Ten Thousand Pound Question: Breaking Down the Maths
 
@@ -47,6 +47,8 @@ If you believe that hitting £10k a month is impossible, then you will never ach
 
 To achieve extraordinary goals, you need an extraordinary mindset. You need to transition from an employee mindset to a business owner mindset. An employee waits to be told what to do. A business owner takes radical responsibility. You need to believe in your own value and charge accordingly. You need to be willing to invest in yourself and your business, whether that is through coaching, new tools, or advertising. You need to be resilient, to be able to handle the knockbacks and the challenges that will inevitably come your way. Your journey to £10k a month starts in your head. Get that right, and the rest will follow.
 
+<div class="pmu-cta-inline"><p>PMU Society helps permanent makeup artists generate 30 to 90 new bookings in just 90 days. Want to see how it works? <a href="https://www.pmusociety.com/getstarted">Book your free discovery call here.</a></p></div>
+
 ## The Client Acquisition Machine: Your System for Scalable Growth
 
 This is the heart of it all. A scalable client acquisition system. A predictable, reliable way of getting new, high quality clients through the door, month after month. This is what separates the amateurs who rely on hope and referrals from the professionals who build predictable revenue.
@@ -61,12 +63,4 @@ And finally, you need a seamless, frictionless booking process. From the moment 
 
 Building a client acquisition machine takes time, expertise, and investment. But once it is up and running, it is the engine that will power your business to £10k a month and far, far beyond.
 
-## Your Turn to Scale
-
-We have shown you the roadmap. We have broken down the numbers. We have given you the strategies. The rest is up to you. You can continue as you are, hoping for the best, or you can decide to become the architect of your own success.
-
-Hitting your first £10k month is not just a financial goal. It is a statement. It is proof that you are a serious business owner, a professional at the top of your game. It is the foundation for a life of freedom, flexibility, and financial security that you deserve.
-
-Are you ready to stop playing small? Are you ready to build the PMU business you have always dreamed of? Then it is time to take action.
-
-Visit pmusociety.com/get-started to book a call with our team. Let’s have a real conversation about your goals. Let’s make your first £10k month a reality. Together.
+<div class="pmu-cta"><h3>Ready to Fill Your Calendar?</h3><p>PMU Society has helped over 100 permanent makeup artists build thriving, fully booked businesses. We generate over 2,000 bookings every single month. Let us do the same for you.</p><a href="https://www.pmusociety.com/getstarted" class="cta-button">Get Started Today</a></div>

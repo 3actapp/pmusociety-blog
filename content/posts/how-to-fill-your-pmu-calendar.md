@@ -37,6 +37,8 @@ Make it a habit to document every client’s journey. With their permission, sha
 
 Feature these testimonials prominently on your website and social media. Create a dedicated ‘Results’ or ‘Love Letters’ page. Share screenshots of positive reviews in your Instagram Stories. When potential clients see a flood of happy customers, their decision to book with you becomes infinitely easier. They are not just buying a service; they are buying confidence and a proven result.
 
+<div class="pmu-cta-inline"><p>PMU Society helps permanent makeup artists generate 30 to 90 new bookings in just 90 days. Want to see how it works? <a href="https://www.pmusociety.com/getstarted">Book your free discovery call here.</a></p></div>
+
 ## Inject Your Personality Into Your Marketing
 
 In a sea of perfectly curated Instagram feeds, authenticity is a superpower. People connect with people, not with faceless brands. Do not be afraid to show the real person behind the business. Injecting your unique personality into your marketing will help you build a loyal community of followers who feel like they know, like, and trust you.
@@ -51,12 +53,4 @@ Ensure that your branding is consistent across all your online platforms, as we 
 
 By creating a seamless and professional online experience, you make it easy for clients to find you, trust you, and book with you. You remove all friction from the process, turning casual browsers into confirmed appointments.
 
-## Ready to Fill Your Calendar for Good?
-
-Implementing these strategies will undoubtedly have a positive impact on your business. They are the foundational pillars of a successful permanent makeup practice. However, we know that doing it all on your own can be overwhelming. You are an artist, and your time is best spent creating beautiful work, not wrestling with marketing and technology.
-
-That is where we come in. PMU Society exists for one reason: to help talented PMU artists like you build the business of their dreams. We provide the systems, the strategies, and the support you need to attract a steady stream of clients and fill your calendar consistently. We have done it for over a hundred PMU professionals, and we can do it for you too.
-
-If you are tired of the empty slots and ready to experience the security of a fully booked calendar, then it is time to take the next step. Let us show you how we can help you generate thirty to ninety new bookings in the next ninety days. Stop struggling and start scaling.
-
-Visit pmusociety.com/get-started to book your free discovery call today. Your future clients are waiting.
+<div class="pmu-cta"><h3>Ready to Fill Your Calendar?</h3><p>PMU Society has helped over 100 permanent makeup artists build thriving, fully booked businesses. We generate over 2,000 bookings every single month. Let us do the same for you.</p><a href="https://www.pmusociety.com/getstarted" class="cta-button">Get Started Today</a></div>

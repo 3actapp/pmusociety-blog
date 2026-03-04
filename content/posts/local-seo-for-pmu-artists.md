@@ -47,6 +47,8 @@ Getting started is simple. Go to google.com/business and create or claim your pr
 
 ## The Power of Genuine Client Reviews
 
+<div class="pmu-cta-inline"><p>PMU Society helps permanent makeup artists generate 30 to 90 new bookings in just 90 days. Want to see how it works? <a href="https://www.pmusociety.com/getstarted">Book your free discovery call here.</a></p></div>
+
 Reviews are the lifeblood of any local business. They are a powerful signal to both Google and potential clients that you are a legitimate, high quality business. A steady stream of positive, detailed reviews will significantly boost your local search ranking.
 
 But how do you get them? Simple. You ask. Make it part of your process. When a client is thrilled with their new brows at their follow up appointment, that is the perfect time to ask for a review. Send them a direct link to your Google Business Profile review page to make it as easy as possible. Our own CRM, Scale My Salon, automates this entire process for our members, because we know how critical it is.
@@ -67,14 +69,4 @@ Here are the key elements your website must have:
 
 Writing the content for your website is where you can really establish your authority. Speak directly to your ideal client. Address their pain points and show them how you can solve their problems. Use the keywords you want to rank for naturally throughout your text. Do not force them in. Write for humans first, and search engines second.
 
-## You Are Leaving Money on the Table
-
-Local SEO is not a dark art. It is a logical, step by step process that any ambitious PMU artist can follow. By optimising your Google Business Profile, encouraging client reviews, and building a simple, keyword focused website, you can climb the search rankings and attract a steady stream of high quality clients.
-
-Ignoring this is no longer an option. Your competitors are already doing it, and they are taking the clients that should be yours. The clients who are actively searching for your skills, right now, in your town.
-
-We help our PMU Society members implement these strategies and more, guaranteeing them 30 to 90 bookings in their first 90 days. We know this works because we do it every day. We see the results. We see the diaries fill up.
-
-Are you ready to stop being invisible? Are you ready to claim your spot at the top of Google and build the profitable PMU business you deserve? Stop letting clients slip through your fingers.
-
-**Take the first step. Visit pmusociety.com/get-started to find out how we can help you dominate your local market.**
+<div class="pmu-cta"><h3>Ready to Fill Your Calendar?</h3><p>PMU Society has helped over 100 permanent makeup artists build thriving, fully booked businesses. We generate over 2,000 bookings every single month. Let us do the same for you.</p><a href="https://www.pmusociety.com/getstarted" class="cta-button">Get Started Today</a></div>
