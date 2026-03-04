@@ -4,6 +4,11 @@ title = "PMU Society Blog — Marketing & Business Growth for PMU Artists"
 theme = "PaperMod"
 enableRobotsTXT = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params.assets]
   customCSS = ["css/custom.css"]
 
@@ -19,9 +24,7 @@ enableRobotsTXT = true
   author = "Sean Hammon, PMU Society"
   description = "The official blog for PMU Society. Expert advice on marketing, client acquisition, and business growth for permanent makeup artists."
 
-  [params.homeInfoParams]
-    Title = "PMU Society Blog"
-    Content = "Expert advice on marketing, client acquisition, and business growth for permanent makeup artists."
+  mainSections = ["posts"]
 
 [menu]
   [[menu.main]]
@@ -37,7 +40,7 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "cta"
     name = "Get More Clients"
-    url = "https://pmusociety.com/get-started"
+    url = "https://www.pmusociety.com/getstarted"
     weight = 30
     [menu.main.params]
       class = "cta-button"

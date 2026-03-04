@@ -1,0 +1,178 @@
+{{- define "main" }}
+
+{{- if .IsHome }}
+{{/* ============================================
+     PREMIUM HOMEPAGE LAYOUT
+     ============================================ */}}
+
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
+{{- $paginator := .Paginate $pages }}
+
+{{/* Hero Section - Brand Introduction */}}
+{{- if eq $paginator.PageNumber 1 }}
+<section class="hero-section">
+    <div class="hero-inner">
+        <span class="hero-badge">PMU Society Blog</span>
+        <h1 class="hero-title">Marketing &amp; Business Growth for PMU Artists</h1>
+        <p class="hero-subtitle">Expert strategies, proven systems, and actionable advice to help permanent makeup artists fill their calendars and scale their businesses. From the team generating 2,000+ bookings every month.</p>
+        <a href="https://www.pmusociety.com/getstarted" class="hero-cta">Get More Clients</a>
+    </div>
+</section>
+
+{{/* Featured Post - First/Latest Post */}}
+{{- with index $paginator.Pages 0 }}
+<section class="featured-section">
+    <span class="section-label">Latest Article</span>
+    <a href="{{ .Permalink }}" class="featured-card">
+        {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
+        {{- if and (.Param "cover.image") (not $isHidden) }}
+        <div class="featured-image">
+            <img loading="lazy" src="{{ .Param "cover.image" }}" alt="{{ .Title }}">
+        </div>
+        {{- end }}
+        <div class="featured-content">
+            <div class="featured-meta">
+                {{- if not (.Param "hideMeta") }}
+                <time>{{ .Date.Format "January 2, 2006" }}</time>
+                {{- with .Params.tags }}
+                <span class="featured-tag">{{ index . 0 }}</span>
+                {{- end }}
+                {{- end }}
+            </div>
+            <h2 class="featured-title">{{ .Title }}</h2>
+            <p class="featured-excerpt">{{ .Summary | plainify | htmlUnescape | truncate 200 }}</p>
+            <span class="featured-readmore">Read Article &rarr;</span>
+        </div>
+    </a>
+</section>
+{{- end }}
+{{- end }}
+
+{{/* Post Grid */}}
+<section class="posts-section">
+    {{- if eq $paginator.PageNumber 1 }}
+    <span class="section-label">All Articles</span>
+    {{- end }}
+    <div class="posts-grid">
+        {{- range $index, $page := $paginator.Pages }}
+        {{- if or (ne $paginator.PageNumber 1) (ne $index 0) }}
+        <article class="grid-card">
+            <a href="{{ .Permalink }}" class="grid-card-link">
+                {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
+                {{- if and (.Param "cover.image") (not $isHidden) }}
+                <div class="grid-card-image">
+                    <img loading="lazy" src="{{ .Param "cover.image" }}" alt="{{ .Title }}">
+                </div>
+                {{- end }}
+                <div class="grid-card-body">
+                    <div class="grid-card-meta">
+                        <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+                        {{- with .Params.tags }}
+                        <span class="grid-card-tag">{{ index . 0 }}</span>
+                        {{- end }}
+                    </div>
+                    <h3 class="grid-card-title">{{ .Title }}</h3>
+                    <p class="grid-card-excerpt">{{ .Summary | plainify | htmlUnescape | truncate 120 }}</p>
+                </div>
+            </a>
+        </article>
+        {{- end }}
+        {{- end }}
+    </div>
+</section>
+
+{{/* Pagination */}}
+{{- if gt $paginator.TotalPages 1 }}
+<footer class="page-footer">
+    <nav class="pagination">
+        {{- if $paginator.HasPrev }}
+        <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">
+            &laquo; Previous
+        </a>
+        {{- end }}
+        {{- if $paginator.HasNext }}
+        <a class="next" href="{{ $paginator.Next.URL | absURL }}">
+            Next &raquo;
+        </a>
+        {{- end }}
+    </nav>
+</footer>
+{{- end }}
+
+{{/* Bottom CTA */}}
+{{- if eq $paginator.PageNumber 1 }}
+<section class="home-cta-section">
+    <div class="home-cta-inner">
+        <h2>Ready to Fill Your Calendar?</h2>
+        <p>PMU Society has helped over 100 permanent makeup artists build thriving, fully booked businesses. We generate over 2,000 bookings every single month.</p>
+        <a href="https://www.pmusociety.com/getstarted" class="home-cta-button">Get Started Today</a>
+    </div>
+</section>
+{{- end }}
+
+{{- else }}
+{{/* ============================================
+     NON-HOME LIST PAGES (Tags, Categories, etc.)
+     ============================================ */}}
+
+{{- if .Title }}
+<header class="page-header">
+    {{- partial "breadcrumbs.html" . }}
+    <h1>{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">
+        {{ .Description | markdownify }}
+    </div>
+    {{- end }}
+</header>
+{{- end }}
+
+{{- $pages := union .RegularPages .Sections }}
+{{- $paginator := .Paginate $pages }}
+
+<div class="posts-grid">
+    {{- range $paginator.Pages }}
+    <article class="grid-card">
+        <a href="{{ .Permalink }}" class="grid-card-link">
+            {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
+            {{- if and (.Param "cover.image") (not $isHidden) }}
+            <div class="grid-card-image">
+                <img loading="lazy" src="{{ .Param "cover.image" }}" alt="{{ .Title }}">
+            </div>
+            {{- end }}
+            <div class="grid-card-body">
+                <div class="grid-card-meta">
+                    <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+                    {{- with .Params.tags }}
+                    <span class="grid-card-tag">{{ index . 0 }}</span>
+                    {{- end }}
+                </div>
+                <h3 class="grid-card-title">{{ .Title }}</h3>
+                <p class="grid-card-excerpt">{{ .Summary | plainify | htmlUnescape | truncate 120 }}</p>
+            </div>
+        </a>
+    </article>
+    {{- end }}
+</div>
+
+{{- if gt $paginator.TotalPages 1 }}
+<footer class="page-footer">
+    <nav class="pagination">
+        {{- if $paginator.HasPrev }}
+        <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">
+            &laquo; Previous
+        </a>
+        {{- end }}
+        {{- if $paginator.HasNext }}
+        <a class="next" href="{{ $paginator.Next.URL | absURL }}">
+            Next &raquo;
+        </a>
+        {{- end }}
+    </nav>
+</footer>
+{{- end }}
+
+{{- end }}
+
+{{- end }}{{- /* end main */ -}}
