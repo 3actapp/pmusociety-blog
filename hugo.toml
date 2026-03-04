@@ -1,0 +1,43 @@
+baseURL = "https://blog.pmusociety.com/"
+languageCode = "en-gb"
+title = "PMU Society Blog — Marketing & Business Growth for PMU Artists"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[params.assets]
+  customCSS = ["css/custom.css"]
+
+[params]
+  defaultTheme = "dark"
+  disableThemeToggle = true
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowFullTextinRSS = true
+  author = "Sean Hammon, PMU Society"
+  description = "The official blog for PMU Society. Expert advice on marketing, client acquisition, and business growth for permanent makeup artists."
+
+  [params.homeInfoParams]
+    Title = "PMU Society Blog"
+    Content = "Expert advice on marketing, client acquisition, and business growth for permanent makeup artists."
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    identifier = "cta"
+    name = "Get More Clients"
+    url = "https://pmusociety.com/get-started"
+    weight = 30
+    [menu.main.params]
+      class = "cta-button"
