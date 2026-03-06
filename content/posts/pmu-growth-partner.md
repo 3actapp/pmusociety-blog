@@ -1,7 +1,10 @@
 ---
-title: "Looking for a PMU Growth Partner? Here’s What That Actually Means"
-slug: "pmu-growth-partner-what-it-means"
+title: "Looking for a PMU Growth Partner? Here's What That Actually Means"
+slug: "pmu-growth-partner"
+date: 2026-03-06
 description: "Discover what a true PMU growth partner offers beyond leads, focusing on systems, training, and scaling for sustainable business success with PMU Society."
+tags: ["pmu growth partner", "pmu marketing agency", "pmu business growth"]
+categories: ["PMU Marketing"]
 ---
 
 # Looking for a PMU Growth Partner? Here’s What That Actually Means

@@ -1,4 +1,5 @@
 ---
+slug: "why-pmu-artists-need-a-specialist-agency"
 title: "5 Reasons Why PMU Artists Fail With Generic Marketing Agencies"
 date: 2026-03-06T12:00:00Z
 draft: false

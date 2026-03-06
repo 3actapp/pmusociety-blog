@@ -1,5 +1,6 @@
 ---
 title: "What to Look For in a Marketing Agency for Permanent Makeup Artists"
+slug: "what-to-look-for-in-a-marketing-agency-for-permanent-makeup-artists"
 date: 2026-03-06
 description: "Discover essential criteria for selecting a marketing agency for permanent makeup artists, ensuring your business thrives with expert guidance and proven results."
 cover:

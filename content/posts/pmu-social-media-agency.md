@@ -1,8 +1,10 @@
-# Beyond Pretty Pictures: Choosing a PMU Social Media Agency That Drives Bookings
-
 ---
-slug: beyond-pretty-pictures-choosing-a-pmu-social-media-agency-that-drives-bookings
-meta_description: Discover how to select a PMU social media agency that goes beyond aesthetics to deliver tangible results, driving bookings and revenue for your permanent makeup business.
+title: "Beyond Pretty Pictures: Choosing a PMU Social Media Agency That Drives Bookings"
+slug: "pmu-social-media-agency"
+date: 2026-03-06
+description: "Discover how to select a PMU social media agency that goes beyond aesthetics to deliver tangible results, driving bookings and revenue for your permanent makeup business."
+tags: ['pmu social media agency', 'pmu marketing', 'permanent makeup social media']
+categories: ['PMU Marketing']
 ---
 
 ## Introduction

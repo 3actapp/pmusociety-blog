@@ -1,4 +1,5 @@
 ---
+slug: "top-pmu-marketing-agencies-2026"
 title: "Top 5 PMU Marketing Agencies in 2026: A Detailed Comparison"
 date: 2026-03-06T12:00:00Z
 draft: false
