@@ -73,11 +73,11 @@ This is the power of a specialist **pmu growth partner**. We handle the business
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/pmu-client-acquisition-system/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-client-acquisition-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A diagram showing a client acquisition funnel for PMU artists.">
+<img src="/images/pmu-client-acquisition-system.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A diagram showing a client acquisition funnel for PMU artists.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">Build a PMU Client Acquisition Machine</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/facebook-instagram-ads-for-pmu-artists/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-ads-management-interface.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="Facebook Ads Manager interface showing successful PMU ad campaigns.">
+<img src="/images/facebook-instagram-ads-for-pmu-artists.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="Facebook Ads Manager interface showing successful PMU ad campaigns.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">Facebook & Instagram Ads for PMU Artists</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>
@@ -100,11 +100,11 @@ If you are ready to stop being a stressed-out business owner and get back to bei
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/automate-your-pmu-business/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-automation-flowchart.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A flowchart showing how to automate a PMU business workflow.">
+<img src="/images/automate-your-pmu-business.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A flowchart showing how to automate a PMU business workflow.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">How to Automate Your PMU Business</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/how-to-grow-pmu-business/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-business-growth-chart.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A chart showing exponential growth for a PMU business.">
+<img src="/images/how-to-scale-your-pmu-business-without-sacrificing-quality.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A chart showing exponential growth for a PMU business.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">The Ultimate Guide to Growing Your PMU Business</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>

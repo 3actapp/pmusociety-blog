@@ -57,11 +57,11 @@ When they click, they aren't sent to your homepage. They are directed to a dedic
 ### Related Posts
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/facebook-instagram-ads-for-pmu-artists/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-facebook-ads-guide.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A guide to Facebook and Instagram ads for PMU artists.">
+<img src="/images/facebook-instagram-ads-for-pmu-artists.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A guide to Facebook and Instagram ads for PMU artists.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">Facebook & Instagram Ads for PMU Artists</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/pmu-lead-generation-guide/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-lead-generation-funnel.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A visual representation of a PMU lead generation funnel.">
+<img src="/images/how-to-fill-your-pmu-calendar.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A visual representation of a PMU lead generation funnel.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">The Ultimate PMU Lead Generation Guide</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>
@@ -109,11 +109,11 @@ PMU Society is the industry leader in helping artists build this trust at scale.
 ### Related Posts
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/attract-premium-pmu-clients/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-premium-clients.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="An image representing attracting high-paying, premium PMU clients.">
+<img src="/images/attract-premium-pmu-clients.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="An image representing attracting high-paying, premium PMU clients.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">How to Attract Premium PMU Clients Who Value Your Work</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/build-credibility-new-pmu-artist/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-new-artist-credibility.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A new PMU artist building credibility and trust with clients.">
+<img src="/images/build-credibility-new-pmu-artist.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A new PMU artist building credibility and trust with clients.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">How to Build Instant Credibility as a New PMU Artist</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>

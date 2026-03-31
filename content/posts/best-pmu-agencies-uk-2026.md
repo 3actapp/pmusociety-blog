@@ -44,7 +44,7 @@ It’s an excellent tool for organization and can certainly help a busy salon be
 ## Related Posts
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/pmu-marketing-strategies/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-marketing-strategies.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A collage of marketing materials for a PMU business.">
+<img src="/images/pmu-client-acquisition-system.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A collage of marketing materials for a PMU business.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">PMU Marketing Strategies</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/pmu-client-acquisition-system/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
@@ -124,11 +124,11 @@ If you are serious about making 2026 your best year yet, the choice is clear. In
 ## Related Posts
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/how-to-grow-pmu-business/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/how-to-grow-pmu-business.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A graph showing upward growth for a PMU business.">
+<img src="/images/how-to-scale-your-pmu-business-without-sacrificing-quality.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A graph showing upward growth for a PMU business.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">How to Grow Your PMU Business in 2026</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/why-pmu-artists-need-a-specialist-agency/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/why-pmu-artists-need-a-specialist-agency.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="Two people shaking hands, representing a partnership between a PMU artist and an agency.">
+<img src="/images/pmu-branding-stand-out-crowded-market.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="Two people shaking hands, representing a partnership between a PMU artist and an agency.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">Why PMU Artists Need a Specialist Agency</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>

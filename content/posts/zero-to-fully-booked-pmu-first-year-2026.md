@@ -72,11 +72,11 @@ Your brand is more than just a logo; it's the entire feeling and experience a cl
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/pmu-training-and-certification/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-training-and-certification-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A PMU artist receiving her training certificate.">
+<img src="/images/build-credibility-new-pmu-artist.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A PMU artist receiving her training certificate.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">The Ultimate Guide to PMU Training and Certification</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/pmu-before-and-after-portfolio/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-portfolio-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A stunning before and after photo of lip blush treatment.">
+<img src="/images/pmu-before-and-after-photography-guide.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A stunning before and after photo of lip blush treatment.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">How to Build a Killer PMU Before & After Portfolio</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>
@@ -129,11 +129,11 @@ The difference between those who succeed and those who don't is persistence and 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/how-to-start-a-permanent-makeup-business/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/start-pmu-business-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A checklist for starting a new PMU business.">
+<img src="/images/how-to-scale-your-pmu-business-without-sacrificing-quality.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A checklist for starting a new PMU business.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">How to Start a Permanent Makeup Business in 2026</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/pmu-marketing-strategies/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-marketing-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A diagram showing different PMU marketing strategies.">
+<img src="/images/pmu-client-acquisition-system.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A diagram showing different PMU marketing strategies.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">The Ultimate Guide to PMU Marketing Strategies</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>

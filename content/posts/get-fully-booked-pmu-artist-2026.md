@@ -37,11 +37,11 @@ Optimizing your online presence for local search is non-negotiable for a **fully
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/pmu-seo-local-search/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-local-seo-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A map showing local PMU businesses ranking on Google.">
+<img src="/images/local-seo-for-pmu-artists.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A map showing local PMU businesses ranking on Google.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">PMU SEO & Local Search: Your Guide to Ranking #1</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/google-my-business-for-pmu-artists/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/google-my-business-pmu-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A PMU artist's optimized Google My Business profile.">
+<img src="/images/local-seo-for-pmu-artists.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A PMU artist's optimized Google My Business profile.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">Google My Business for PMU Artists: The Ultimate Guide</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>
@@ -80,11 +80,11 @@ At PMU Society, we specialize in creating these high-performing ad funnels for o
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/facebook-instagram-ads-for-pmu-artists/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-ads-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A phone showing a successful Instagram ad for a PMU artist.">
+<img src="/images/facebook-instagram-ads-for-pmu-artists.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A phone showing a successful Instagram ad for a PMU artist.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">Facebook & Instagram Ads for PMU Artists: The Definitive Guide</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/build-pmu-client-acquisition-machine/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-client-machine-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A diagram showing a client acquisition machine for a PMU business.">
+<img src="/images/pmu-client-acquisition-system.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A diagram showing a client acquisition machine for a PMU business.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">How to Build a PMU Client Acquisition Machine from Scratch</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>

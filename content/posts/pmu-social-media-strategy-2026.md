@@ -94,11 +94,11 @@ While a presence on Facebook is still important, the growth and engagement for a
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/pmu-instagram-reels-strategy/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/posts/pmu-instagram-reels-strategy-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A phone showing the Instagram Reels interface.">
+<img src="/images/convert-dms-into-pmu-bookings.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A phone showing the Instagram Reels interface.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">PMU Instagram Reels Strategy</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/pmu-tiktok-marketing/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/posts/pmu-tiktok-marketing-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="The TikTok logo on a smartphone screen.">
+<img src="/images/how-to-fill-your-pmu-calendar.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="The TikTok logo on a smartphone screen.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">PMU TikTok Marketing</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>
@@ -123,11 +123,11 @@ Your social media is the engine of your business. By implementing these strategi
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/pmu-artist-branding/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/posts/pmu-artist-branding-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A moodboard for a PMU artist's brand identity.">
+<img src="/images/pmu-branding-stand-out-crowded-market.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A moodboard for a PMU artist's brand identity.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">PMU Branding: Stand Out in a Crowded Market</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/facebook-instagram-ads-for-pmu-artists/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/posts/facebook-instagram-ads-for-pmu-artists-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A woman scrolling through Instagram on her phone, seeing a PMU ad.">
+<img src="/images/facebook-instagram-ads-for-pmu-artists.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A woman scrolling through Instagram on her phone, seeing a PMU ad.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">Facebook & Instagram Ads for PMU Artists</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>

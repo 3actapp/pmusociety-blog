@@ -62,11 +62,11 @@ However, this ease of rescheduling should always be framed by your policy. If th
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/pmu-booking-system/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-booking-system-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A sleek and efficient PMU booking system interface on a tablet.">
+<img src="/images/build-pmu-client-retention-system.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A sleek and efficient PMU booking system interface on a tablet.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">The Ultimate PMU Booking System</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/automate-your-pmu-business/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/automate-pmu-business-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A diagram showing automated workflows for a PMU business.">
+<img src="/images/automate-your-pmu-business.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A diagram showing automated workflows for a PMU business.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">How to Automate Your PMU Business</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>
@@ -101,11 +101,11 @@ Our automated client acquisition and management machine handles everything from 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/pmu-client-retention/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-client-retention-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A happy client returning for a touch-up, showcasing PMU client retention.">
+<img src="/images/build-pmu-client-retention-system.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A happy client returning for a touch-up, showcasing PMU client retention.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">The Secrets to Lifelong PMU Client Retention</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/pmu-pricing-guide/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-pricing-guide-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A guide to pricing strategies for PMU services.">
+<img src="/images/raise-your-pmu-prices.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A guide to pricing strategies for PMU services.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">The Ultimate PMU Pricing Guide for 2026</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>
