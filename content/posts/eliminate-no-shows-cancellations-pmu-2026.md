@@ -62,7 +62,7 @@ However, this ease of rescheduling should always be framed by your policy. If th
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/pmu-booking-system/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/posts/eliminate-no-shows-pmu-2026-calendar.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A sleek and efficient PMU booking system interface on a tablet.">
+<img src="/images/build-pmu-client-retention-system.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A sleek and efficient PMU booking system interface on a tablet.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">The Ultimate PMU Booking System</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/automate-your-pmu-business/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">

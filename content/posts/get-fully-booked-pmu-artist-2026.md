@@ -41,7 +41,7 @@ Optimizing your online presence for local search is non-negotiable for a **fully
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">PMU SEO & Local Search: Your Guide to Ranking #1</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/google-my-business-for-pmu-artists/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/posts/get-fully-booked-pmu-2026-ads.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A PMU artist's optimized Google My Business profile.">
+<img src="/images/local-seo-for-pmu-artists.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A PMU artist's optimized Google My Business profile.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">Google My Business for PMU Artists: The Ultimate Guide</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>
