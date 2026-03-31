@@ -210,14 +210,26 @@ a:hover {
     color: #f0f0f0;
 }
 
+/* First paragraph drop cap effect */
+.post-content > p:first-of-type::first-letter {
+    font-size: 3.2rem;
+    font-weight: 800;
+    color: #14d171;
+    float: left;
+    line-height: 1;
+    margin-right: 0.1em;
+    margin-top: 0.05em;
+}
+
 .post-content h2 {
     font-size: 1.7rem;
     font-weight: 700;
     color: #ffffff;
-    margin-top: 3rem;
-    margin-bottom: 1rem;
-    padding-bottom: 0.5rem;
-    border-bottom: 1px solid #1e1e1e;
+    margin-top: 3.5rem;
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 2px solid #14d171;
+    position: relative;
 }
 
 .post-content h3 {
@@ -226,6 +238,11 @@ a:hover {
     color: #ffffff;
     margin-top: 2.5rem;
     margin-bottom: 0.75rem;
+}
+
+/* Numbered ranking headings for listicle posts */
+.post-content h3 strong {
+    color: #14d171;
 }
 
 .post-content ul, .post-content ol {
@@ -249,27 +266,58 @@ a:hover {
     font-style: italic;
 }
 
-/* Blockquotes */
+/* Blockquotes — Premium Style */
 .post-content blockquote {
     border-left: 4px solid #14d171;
-    background: #0d0d0d;
-    padding: 1.25rem 1.5rem;
-    margin: 2rem 0;
-    border-radius: 0 8px 8px 0;
+    background: linear-gradient(135deg, #0a1a10 0%, #0d0d0d 100%);
+    padding: 1.5rem 2rem;
+    margin: 2.5rem 0;
+    border-radius: 0 12px 12px 0;
     color: #e0e0e0;
     font-style: italic;
     line-height: 1.8;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
 
 .post-content blockquote p {
     color: #e0e0e0;
     margin-bottom: 0;
+    font-size: 1.1rem;
 }
 
-/* Images in posts */
+/* Images in posts — Premium Beauty Style */
 .post-content img {
-    border-radius: 8px;
-    margin: 1.5rem 0;
+    border-radius: 12px;
+    margin: 2.5rem 0;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.post-content img:hover {
+    transform: scale(1.01);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.5);
+}
+
+/* Full-bleed image wrapper for wider images */
+.post-content p > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Image captions */
+.post-content p > img + em,
+.post-content figure figcaption {
+    display: block;
+    text-align: center;
+    font-size: 0.82rem;
+    color: #777;
+    margin-top: -1.5rem;
+    margin-bottom: 2rem;
+    font-style: italic;
 }
 
 /* 7. CTA Section Styling (in-post)
@@ -939,5 +987,126 @@ a:hover {
     .posts-section,
     .home-cta-section {
         padding: 0 1rem;
+    }
+}
+
+/* ==========================================================
+   21. PREMIUM POST ENHANCEMENTS
+   ========================================================== */
+
+/* Smooth reading experience */
+.post-content {
+    letter-spacing: 0.005em;
+}
+
+/* In-content links with subtle underline */
+.post-content a {
+    color: #14d171;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(20, 209, 113, 0.3);
+    transition: all 0.2s ease;
+    padding-bottom: 1px;
+}
+
+.post-content a:hover {
+    color: #4ae68d;
+    border-bottom-color: #4ae68d;
+}
+
+/* Cover image on single post */
+.post-header .post-cover img,
+.entry-cover img {
+    border-radius: 12px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+}
+
+/* Smooth fade-in for post content */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.post-content {
+    animation: fadeInUp 0.6s ease-out;
+}
+
+/* Premium divider between sections */
+.post-content hr {
+    border: none;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #14d171, transparent);
+    margin: 3rem 0;
+}
+
+/* Ordered list styling for ranking posts */
+.post-content ol {
+    counter-reset: ranking;
+    list-style: none;
+    padding-left: 0;
+}
+
+.post-content ol > li {
+    counter-increment: ranking;
+    position: relative;
+    padding-left: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.post-content ol > li::before {
+    content: counter(ranking) ".";
+    position: absolute;
+    left: 0;
+    font-weight: 700;
+    color: #14d171;
+    font-size: 1.1rem;
+}
+
+/* Unordered list bullet styling */
+.post-content ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.post-content ul > li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.post-content ul > li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.7em;
+    width: 6px;
+    height: 6px;
+    background: #14d171;
+    border-radius: 50%;
+}
+
+/* Reading progress indicator */
+.post-single .post-content {
+    position: relative;
+}
+
+/* Mobile image improvements */
+@media (max-width: 768px) {
+    .post-content img {
+        border-radius: 8px;
+        margin: 1.5rem 0;
+    }
+
+    .post-content > p:first-of-type::first-letter {
+        font-size: 2.6rem;
+    }
+
+    .post-content h2 {
+        margin-top: 2.5rem;
     }
 }
