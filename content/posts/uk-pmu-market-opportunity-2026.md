@@ -50,11 +50,11 @@ To effectively tap into this market, your branding and marketing must be on poin
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/pmu-artist-branding/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-artist-branding-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A stylish logo and branding for a PMU artist.">
+<img src="/images/pmu-branding-stand-out-crowded-market.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A stylish logo and branding for a PMU artist.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">PMU Artist Branding</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/attract-premium-pmu-clients/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/attract-premium-pmu-clients-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A premium client receiving a PMU treatment.">
+<img src="/images/attract-premium-pmu-clients.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A premium client receiving a PMU treatment.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">Attract Premium PMU Clients</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>
@@ -97,11 +97,11 @@ To scale without burning out, you need systems. This means learning how to [Auto
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/how-to-scale-your-pmu-business-without-sacrificing-quality/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/scale-pmu-business-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A diagram showing the scaling process for a PMU business.">
+<img src="/images/scale-pmu-bookings-from-5-to-20-per-month.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A diagram showing the scaling process for a PMU business.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">How to Scale Your PMU Business Without Sacrificing Quality</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/hit-first-10k-month-pmu-artist/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/10k-month-pmu-artist-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A PMU artist celebrating hitting their first 10k month.">
+<img src="/images/hit-first-10k-month-pmu-artist.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A PMU artist celebrating hitting their first 10k month.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">Hit Your First £10k Month as a PMU Artist</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>

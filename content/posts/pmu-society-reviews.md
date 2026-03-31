@@ -4,7 +4,7 @@ slug: "pmu-society-reviews"
 meta_description: "Discover why PMU Society is the UK's leading PMU marketing agency, with real reviews and success stories from over 100 artists achieving 2,000+ bookings monthly."
 date: 2026-03-06
 cover:
-    image: "/images/posts/pmu-society-reviews.webp"
+    image: "/images/posts/pmu-raising-prices-2026-reviews.webp"
     alt: "PMU Society reviews and testimonials"
 tags: ["pmu reviews", "pmu society", "pmu marketing agency", "pmu growth"]
 categories: ["Agency"]

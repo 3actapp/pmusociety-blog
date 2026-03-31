@@ -53,11 +53,11 @@ Without the right insurance, you are personally liable for any claims, which cou
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/pmu-insurance-and-regulations/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-insurance-and-regulations-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A stack of legal documents with a gavel, representing PMU insurance and regulations.">
+<img src="/images/posts/pmu-regulations-uk-2026-certification.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A stack of legal documents with a gavel, representing PMU insurance and regulations.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">PMU Insurance and Regulations</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/how-to-start-a-permanent-makeup-business/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/how-to-start-a-pmu-business-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A new PMU clinic owner standing proudly in her modern and clean salon.">
+<img src="/images/posts/pmu-regulations-uk-2026-council.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A new PMU clinic owner standing proudly in her modern and clean salon.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">How to Start a Permanent Makeup Business</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>
@@ -136,11 +136,11 @@ This is where being part of a community like PMU Society becomes invaluable. We 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 <a href="/posts/pmu-consultation-tips/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-consultation-tips-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A PMU artist having a warm and professional consultation with a client.">
+<img src="/images/posts/pmu-regulations-uk-2026-patchtest.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A PMU artist having a warm and professional consultation with a client.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">The Perfect PMU Consultation</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 <a href="/posts/pmu-aftercare-guide/" style="text-decoration: none; background: #111; border: 1px solid #1e1e1e; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-<img src="/images/pmu-aftercare-guide-hero.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A flatlay of PMU aftercare products and an instruction card.">
+<img src="/images/pmu-aftercare-communication-guide.webp" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="A flatlay of PMU aftercare products and an instruction card.">
 <div style="padding: 1rem;"><strong style="color: #fff; font-size: 0.95rem;">The Ultimate PMU Aftercare Guide</strong><br><span style="color: #888; font-size: 0.82rem;">Read more →</span></div>
 </a>
 </div>
