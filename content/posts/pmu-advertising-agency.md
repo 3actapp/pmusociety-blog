@@ -5,6 +5,10 @@ draft: false
 description: "Discover how to choose the best PMU advertising agency to boost your bookings and revenue. Learn about effective paid ad strategies for permanent makeup artists."
 slug: "pmu-advertising-agency"
 keywords: ["PMU advertising agency", "permanent makeup advertising", "PMU marketing", "Facebook ads for PMU", "Instagram ads for PMU", "Google ads for PMU"]
+cover:
+    image: "/images/facebook-instagram-ads-for-pmu-artists.webp"
+    alt: ""
+    relative: false
 ---
 
 # The Ultimate Guide to Choosing a PMU Advertising Agency

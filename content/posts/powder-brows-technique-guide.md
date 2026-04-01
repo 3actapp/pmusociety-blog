@@ -6,6 +6,11 @@ date: 2026-03-25
 tags: ["powder brows", "pmu techniques", "ombre brows"]
 categories: ["PMU Techniques"]
 author: "PMU Society"
+cover:
+    image: "/images/pmu-before-and-after-photography-guide.webp"
+    alt: ""
+    relative: false
+keywords: ["powder brows", "ombre brows", "pmu brow techniques"]
 ---
 
 # Powder Brows Technique Guide: Everything PMU Artists Need to Master This Service

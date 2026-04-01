@@ -3,6 +3,7 @@ languageCode = "en-gb"
 title = "PMU Society Blog — Marketing & Business Growth for PMU Artists"
 theme = "PaperMod"
 enableRobotsTXT = true
+paginate = 15
 
 [markup]
   [markup.goldmark]
@@ -13,6 +14,7 @@ enableRobotsTXT = true
   customCSS = ["css/custom.css"]
 
 [params]
+  env = "production"
   defaultTheme = "dark"
   disableThemeToggle = true
   ShowReadingTime = true
@@ -21,10 +23,20 @@ enableRobotsTXT = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowFullTextinRSS = true
-  author = "Sean Hammon, PMU Society"
-  description = "The official blog for PMU Society. Expert advice on marketing, client acquisition, and business growth for permanent makeup artists."
-
+  author = "PMU Society"
+  description = "The official blog for PMU Society. Expert advice on marketing, client acquisition, and business growth for permanent makeup artists in the UK."
   mainSections = ["posts"]
+  # Default OG image for posts without a cover image
+  images = ["/images/og-default.jpg"]
+  keywords = ["PMU marketing", "permanent makeup business", "PMU artist tips", "PMU Society", "beauty business growth UK"]
+
+  [params.schema]
+    publisherType = "Organization"
+    sameAs = [
+      "\"https://www.pmusociety.com\"",
+      "\"https://www.instagram.com/pmusociety\"",
+      "\"https://www.facebook.com/pmusociety\""
+    ]
 
 [menu]
   [[menu.main]]
@@ -44,3 +56,6 @@ enableRobotsTXT = true
     weight = 30
     [menu.main.params]
       class = "cta-button"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

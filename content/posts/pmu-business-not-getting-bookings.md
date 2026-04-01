@@ -13,6 +13,12 @@ tags:
   - "PMU marketing"
   - "client acquisition"
 cover_image: "/images/posts/pmu-business-not-getting-bookings.webp"
+cover:
+    image: "/images/how-to-fill-your-pmu-calendar.webp"
+    alt: ""
+    relative: false
+description: "Is your PMU business not getting bookings? Discover the real reasons why your calendar is empty and the exact steps to fix it fast."
+keywords: ["pmu no bookings", "pmu calendar empty", "get pmu clients"]
 ---
 
 # PMU Business Not Getting Bookings? Here’s The Real Reason Why

@@ -3,7 +3,13 @@ slug: "top-pmu-marketing-agencies-2026"
 title: "Top 5 PMU Marketing Agencies in 2026: A Detailed Comparison"
 date: 2026-03-06T12:00:00Z
 draft: false
-author: "Manus AI"
+author: "PMU Society"
+cover:
+    image: "/images/pmu-society-playbook.webp"
+    alt: ""
+    relative: false
+description: "A detailed comparison of the top PMU marketing agencies in 2026. Find out which agency delivers the best results for permanent makeup artists in the UK."
+keywords: ["top pmu agencies 2026", "best pmu marketing agency", "pmu agency uk"]
 ---
 
 ## Top 5 PMU Marketing Agencies in 2026: A Detailed Comparison

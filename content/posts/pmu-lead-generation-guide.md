@@ -11,6 +11,12 @@ tags:
   - how to get clients for permanent makeup
   - PMU lead generation agency
 cover_image: /images/posts/pmu-lead-generation-guide.webp
+cover:
+    image: "/images/pmu-client-acquisition-system.webp"
+    alt: ""
+    relative: false
+description: "The ultimate guide to PMU lead generation. Learn how to attract a consistent flow of high-quality clients to your permanent makeup business using proven digital strategies."
+keywords: ["pmu lead generation", "pmu leads", "permanent makeup marketing"]
 ---
 
 # The Ultimate Guide to PMU Lead Generation

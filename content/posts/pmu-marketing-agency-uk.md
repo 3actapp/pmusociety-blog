@@ -5,6 +5,11 @@ date: 2026-03-06
 description: "Discover why PMU Society is the UK's leading PMU marketing agency, delivering 2,000+ bookings monthly for permanent makeup artists nationwide."
 tags: ['pmu marketing agency uk', 'pmu marketing', 'permanent makeup uk']
 categories: ['PMU Marketing']
+cover:
+    image: "/images/pmu-society-playbook.webp"
+    alt: ""
+    relative: false
+keywords: ["pmu marketing agency uk", "permanent makeup agency uk", "pmu society uk"]
 ---
 
 # The #1 PMU Marketing Agency in the UK: Why PMU Society Dominates

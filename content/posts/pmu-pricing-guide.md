@@ -6,6 +6,11 @@ date: 2026-03-04
 tags: ["pmu pricing", "pmu business", "permanent makeup pricing"]
 categories: ["PMU Business"]
 author: "PMU Society"
+cover:
+    image: "/images/raise-your-pmu-prices.webp"
+    alt: ""
+    relative: false
+keywords: ["pmu pricing", "permanent makeup prices", "how much to charge pmu"]
 ---
 
 Are you struggling to figure out how much to charge for your permanent makeup services? You’re not alone. Setting your prices is one of the most challenging aspects of running a PMU business. Price too high, and you risk scaring away potential clients. Price too low, and you leave money on the table, devalue your skills, and struggle to build a sustainable business. This comprehensive **PMU pricing guide** is here to demystify the process and give you a clear framework for pricing your services with confidence and for profit.

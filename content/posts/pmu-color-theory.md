@@ -6,6 +6,11 @@ date: 2026-03-29
 tags: ["pmu color theory", "pigment selection", "pmu education"]
 categories: ["PMU Education"]
 author: "PMU Society"
+cover:
+    image: "/images/pmu-before-and-after-photography-guide.webp"
+    alt: ""
+    relative: false
+keywords: ["pmu color theory", "pmu pigments", "permanent makeup colors"]
 ---
 
 Ever have that moment of hesitation right before you mix a pigment? That tiny flicker of doubt where you wonder if you’ve chosen the absolute perfect shade for your client? You’re not alone. Choosing the right pigment is part art, part science, and it’s one of the most critical skills in permanent makeup. Get it right, and your clients will be walking billboards for your talent. Get it wrong, and you’re facing a color correction nightmare. But what if you could approach every client with total confidence, knowing you have a deep understanding of **PMU color theory**? 

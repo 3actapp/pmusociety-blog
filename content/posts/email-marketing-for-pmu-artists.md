@@ -6,6 +6,11 @@ date: 2026-03-14
 tags: ["pmu marketing", "email marketing", "client acquisition"]
 categories: ["PMU Marketing"]
 author: "PMU Society"
+cover:
+    image: "/images/convert-dms-into-pmu-bookings.webp"
+    alt: ""
+    relative: false
+keywords: ["email marketing pmu", "pmu email campaigns", "pmu client nurture"]
 ---
 
 Are you pouring your heart and soul into creating stunning permanent makeup, only to hear crickets when it comes to new bookings? You’re not alone. Many talented PMU artists struggle to maintain a consistent flow of clients, leaving them feeling stressed and uncertain about the future of their business. You see other artists with packed schedules and wonder, "What's their secret?" Often, that secret isn't some complicated, expensive marketing trick. It's email.

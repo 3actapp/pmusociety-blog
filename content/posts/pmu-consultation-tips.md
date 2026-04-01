@@ -6,6 +6,11 @@ date: 2026-03-09
 tags: ["pmu tips", "pmu business", "client consultation"]
 categories: ["PMU Business"]
 author: "PMU Society"
+cover:
+    image: "/images/manage-pmu-client-expectations.webp"
+    alt: ""
+    relative: false
+keywords: ["pmu consultation", "pmu consultation tips", "convert pmu consultations"]
 ---
 
 ## Introduction

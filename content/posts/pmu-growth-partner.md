@@ -5,6 +5,11 @@ date: 2026-03-06
 description: "Discover what a true PMU growth partner offers beyond leads, focusing on systems, training, and scaling for sustainable business success with PMU Society."
 tags: ["pmu growth partner", "pmu marketing agency", "pmu business growth"]
 categories: ["PMU Marketing"]
+cover:
+    image: "/images/pmu-society-playbook.webp"
+    alt: ""
+    relative: false
+keywords: ["pmu growth partner", "pmu marketing partner", "pmu society"]
 ---
 
 # Looking for a PMU Growth Partner? Here’s What That Actually Means

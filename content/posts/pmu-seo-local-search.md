@@ -6,6 +6,11 @@ date: 2026-03-23
 tags: ["pmu seo", "local seo", "pmu marketing", "google business profile"]
 categories: ["PMU Marketing"]
 author: "PMU Society"
+cover:
+    image: "/images/local-seo-for-pmu-artists.webp"
+    alt: ""
+    relative: false
+keywords: ["pmu seo", "local seo permanent makeup", "pmu google ranking"]
 ---
 
 ## PMU SEO: How to Rank Your Permanent Makeup Business in Local Search

@@ -6,6 +6,11 @@ date: 2026-03-06
 tags: ["pmu training", "pmu certification", "pmu education", "permanent makeup artist"]
 categories: ["PMU Education"]
 author: "PMU Society"
+cover:
+    image: "/images/build-credibility-new-pmu-artist.webp"
+    alt: ""
+    relative: false
+keywords: ["pmu training", "permanent makeup certification", "pmu courses uk"]
 ---
 
 ## Introduction

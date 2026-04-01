@@ -6,6 +6,11 @@ date: 2026-03-26
 tags: ["pmu marketing", "tiktok for business", "social media marketing", "pmu artist"]
 categories: ["Social Media"]
 author: "PMU Society"
+cover:
+    image: "/images/convert-dms-into-pmu-bookings.webp"
+    alt: ""
+    relative: false
+keywords: ["pmu tiktok", "permanent makeup tiktok", "pmu short video"]
 ---
 
 As a permanent makeup artist, you're always looking for new ways to connect with potential clients and showcase your incredible work. You've probably spent countless hours perfecting your craft, but are you spending enough time marketing your skills to the right audience? If you feel like you're posting on Instagram with little to no return, it might be time to consider a new platform, one that has taken the social media world by storm: TikTok. For many in the beauty industry, **PMU TikTok marketing** has become a game-changer, and in this guide, we're going to show you exactly how to leverage it to fill your appointment book.

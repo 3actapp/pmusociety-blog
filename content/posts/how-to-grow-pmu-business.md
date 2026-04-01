@@ -12,7 +12,13 @@ tags:
   - PMU Society
 meta_description: "Discover how to grow your PMU business from a solo artist to a thriving empire. Learn about systemisation, automation, team building, and financial tracking to scale your PMU practice effectively."
 cover_image: "/images/posts/how-to-grow-pmu-business.webp"
-author: "Manus AI"
+author: "PMU Society"
+cover:
+    image: "/images/how-to-scale-your-pmu-business-without-sacrificing-quality.webp"
+    alt: ""
+    relative: false
+description: "Learn exactly how to grow your PMU business from solo artist to a thriving empire. Proven strategies for scaling bookings, revenue, and your team in 2026."
+keywords: ["grow pmu business", "pmu business growth", "scale permanent makeup"]
 ---
 
 # How to Grow Your PMU Business From Artist to Empire

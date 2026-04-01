@@ -6,6 +6,11 @@ date: 2026-03-03
 tags: ["social media", "marketing", "pmu business"]
 categories: ["Social Media"]
 author: "PMU Society"
+cover:
+    image: "/images/facebook-instagram-ads-for-pmu-artists.webp"
+    alt: ""
+    relative: false
+keywords: ["social media pmu", "pmu instagram", "permanent makeup social media"]
 ---
 
 Are you a talented permanent makeup artist, pouring your heart and soul into creating flawless brows, lips, and liner, only to post your work on Instagram to the sound of crickets? You see other artists with thousands of followers, their appointment books bursting at the seams, and you wonder, "What's their secret?" The truth is, their secret isn't some expensive, complicated marketing scheme. It's a powerful, consistent, and strategic approach to **social media for PMU artists**. You have the skill, and this guide will give you the strategy to transform your social media presence from a quiet portfolio into a client-booking machine.

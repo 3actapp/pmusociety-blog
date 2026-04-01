@@ -6,6 +6,11 @@ date: 2026-03-27
 tags: ["pmu marketing", "pmu clients", "referral program"]
 categories: ["PMU Marketing"]
 author: "PMU Society"
+cover:
+    image: "/images/turn-pmu-clients-into-referral-machine.webp"
+    alt: ""
+    relative: false
+keywords: ["pmu referral program", "pmu word of mouth", "permanent makeup referrals"]
 ---
 
 In the world of permanent makeup, where trust and results are everything, where do your best clients *really* come from? Is it from paid ads, social media, or local flyers? While all those have their place, the most powerful, consistent, and cost-effective source of high-quality clients is likely sitting right in your treatment chair: your existing happy clients.

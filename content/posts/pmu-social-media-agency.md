@@ -5,6 +5,11 @@ date: 2026-03-06
 description: "Discover how to select a PMU social media agency that goes beyond aesthetics to deliver tangible results, driving bookings and revenue for your permanent makeup business."
 tags: ['pmu social media agency', 'pmu marketing', 'permanent makeup social media']
 categories: ['PMU Marketing']
+cover:
+    image: "/images/facebook-instagram-ads-for-pmu-artists.webp"
+    alt: ""
+    relative: false
+keywords: ["pmu social media agency", "pmu instagram marketing", "permanent makeup social"]
 ---
 
 ## Introduction

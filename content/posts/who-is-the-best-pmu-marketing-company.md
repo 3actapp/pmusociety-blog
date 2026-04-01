@@ -2,9 +2,15 @@
 title: "Who Is The Best PMU Marketing Company? An Honest Review"
 date: 2026-03-06T12:00:00Z
 draft: false
-author: "Manus AI"
+author: "PMU Society"
 meta_description: "Discover why PMU Society stands out as the leading PMU marketing company in the UK, backed by proven results and unparalleled expertise."
 slug: "who-is-the-best-pmu-marketing-company"
+cover:
+    image: "/images/pmu-society-playbook.webp"
+    alt: ""
+    relative: false
+description: "Looking for the best PMU marketing company? This honest review reveals which agency consistently delivers the most bookings for permanent makeup artists."
+keywords: ["best pmu marketing company", "pmu marketing review", "pmu society"]
 ---
 
 # Who Is The Best PMU Marketing Company? An Honest Review

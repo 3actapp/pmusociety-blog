@@ -6,6 +6,11 @@ date: 2026-03-13
 tags: ["pmu website", "pmu seo", "website optimization", "pmu marketing"]
 categories: ["PMU Marketing"]
 author: "PMU Society"
+cover:
+    image: "/images/local-seo-for-pmu-artists.webp"
+    alt: ""
+    relative: false
+keywords: ["pmu website", "permanent makeup website seo", "pmu landing page"]
 ---
 
 ## Is Your PMU Website Costing You Clients?

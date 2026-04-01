@@ -6,6 +6,11 @@ date: 2026-03-10
 tags: ["pmu portfolio", "pmu marketing", "pmu clients"]
 categories: ["PMU Marketing"]
 author: "PMU Society"
+cover:
+    image: "/images/pmu-before-and-after-photography-guide.webp"
+    alt: ""
+    relative: false
+keywords: ["pmu portfolio", "pmu before and after", "permanent makeup photos"]
 ---
 
 In the world of permanent makeup, your talent speaks for itself, but how do you show that talent to potential clients? A picture is worth a thousand words, and in your case, a great **PMU before and after portfolio** is worth thousands of dollars in bookings. It's your single most powerful asset for converting a curious browser into a confident client. But are you just snapping a quick photo and hoping for the best? If so, you're leaving money on the table.

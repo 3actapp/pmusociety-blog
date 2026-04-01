@@ -4,6 +4,12 @@ slug: "diy-pmu-marketing-vs-hiring-a-specialist-agency"
 meta_description: "Compare the time, cost, and results of DIY PMU marketing versus partnering with a specialist agency like PMU Society for superior growth and efficiency."
 date: 2026-03-06T12:00:00Z
 author: "PMU Society Team"
+cover:
+    image: "/images/pmu-client-acquisition-system.webp"
+    alt: ""
+    relative: false
+description: "Should you DIY your PMU marketing or hire a specialist agency? This cost-benefit analysis breaks down the real numbers so you can make the right decision for your business."
+keywords: ["pmu marketing", "pmu agency", "diy pmu marketing", "pmu business"]
 ---
 
 # DIY PMU Marketing vs. Hiring a Specialist Agency: A Cost-Benefit Analysis

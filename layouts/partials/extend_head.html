@@ -4,6 +4,32 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+{{- /* Canonical URL — prevents duplicate content issues */ -}}
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{- /* Twitter / X Card meta */ -}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@pmusociety">
+{{- with or .Title site.Title }}
+<meta name="twitter:title" content="{{ . | plainify }}">
+{{- end }}
+{{- with or .Description .Summary site.Params.description }}
+<meta name="twitter:description" content="{{ . | plainify | truncate 200 }}">
+{{- end }}
+{{- if .Params.cover.image }}
+<meta name="twitter:image" content="{{ .Params.cover.image | absURL }}">
+{{- else }}
+<meta name="twitter:image" content="{{ "/images/og-default.jpg" | absURL }}">
+{{- end }}
+
+{{- /* Additional SEO meta */ -}}
+<meta name="author" content="{{ with .Params.author }}{{ . }}{{ else }}PMU Society{{ end }}">
+{{- with .Params.keywords }}
+<meta name="keywords" content="{{ delimit . ", " }}">
+{{- else }}
+<meta name="keywords" content="PMU marketing, permanent makeup business, PMU artist tips, PMU Society UK">
+{{- end }}
+
 {{- /* Google Analytics GA4 */ -}}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PLKKD154XH"></script>
 <script>
