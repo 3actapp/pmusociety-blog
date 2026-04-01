@@ -7,7 +7,7 @@ tags: ["social media", "pmu marketing", "instagram", "tiktok", "content strategy
 categories: ["Social Media", "Marketing"]
 author: "PMU Society"
 cover:
-    image: "/images/posts/pmu-social-media-strategy-2026-hero.webp"
+    image: "/images/posts/pmu-social-media-strategy-2026-hero.jpg"
     alt: "A PMU artist planning their social media content on a tablet."
 ShowToc: true
 TocOpen: true
